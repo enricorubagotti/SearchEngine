@@ -1,0 +1,627 @@
+Tipología de productores de arveja (Pisum sativum L.) en los municipios
+Córdoba y Puerres, Nariño (Colombia)
+Typology of pea-producing (Pisum sativum L.) in the municipalities of Córdoba and
+Puerres, Nariño (Colombia)
+
+María Victoria Zuluaga-Mogollón1, Yajaira Romero-Barrera2, 4, Alvaro Mauricio
+Cadena-Pastrana3
+1
+
+Corporación Colombiana de Investigación Agropecuaria (Agrosavia), Centro de
+
+Investigación Tibaitatá, Mosquera, Colombia. ORCID Zuluaga-Mogollón, M. V.:
+https://orcid.org/0000-0002-3246-3400
+2
+
+Corporación Colombiana de Investigación Agropecuaria (Agrosavia), Sede Central,
+
+Mosquera, Colombia, ORCID Romero-Barrera, Y.: https://orcid.org/0000-0002-65127307
+3
+
+Corporación Colombiana de Investigación Agropecuaria (Agrosavia), Centro de
+
+Investigación Obonuco, Pasto (Colombia). ORCID Cadena-Pastrana, A. M.:
+https://orcid.org/0000-0003-3836-5171
+4
+
+Autor de correspondencia: yromero@agrosavia.co
+
+RESUMEN
+La arveja fresca es la segunda leguminosa más importante en Colombia después del
+frijol. En los últimos 15 años, se ha incrementado el área cultivada en el país y el
+departamento de Nariño aporta el 58% de la producción nacional, la zona productora
+se concentra en la subregión exprovincia Obando al sur del departamento y se
+cultiva principalmente por minifundios. Este cultivo es uno de los sistemas de
+producción agrícola más representativos de la región, un elemento clave de la
+seguridad alimentaria y nutricional y una de las principales fuentes de ingresos de
+las familias rurales. En este estudio identificó las tipologías de productores de los
+municipios de Puerres y Córdoba (Nariño) a partir de una muestra de 117
+productores de arveja, a quienes les fue aplicada una encuesta estructurada; los
+datos se analizaron mediante un método jerárquico y se establecieron cuatro grupos
+de
+
+adoptantes.
+
+Las
+
+principales
+
+variables
+
+diferenciadoras
+
+fueron
+
+las
+
+sociodemográficas, experiencia en el cultivo, adopción de tecnología y su relación
+Citar: Zuluaga-Mogollón, M. V., Romero-Barrera, Y., & Cadena-Pastrana, A. M. (2023). Tipología de productores
+de arveja (Pisum sativum L.) en los municipios Córdoba y Puerres, Nariño (Colombia). Ciencia y agricultura,
+20(2), 15543. https://doi.org/10.19053/01228420.v20.n2.2023.15543
+
+con la calidad de vida y procesos de migración. Este tipo de análisis contribuye a
+múltiples propósitos, desde comprender en cierta medida la complejidad de las
+sociedades rurales, así como en definir políticas públicas y determinar aspectos
+clave para la adopción de tecnología.
+Palabras clave: hortalizas, tipología, pequeños agricultores, adopción de tecnología.
+ABSTRACT
+Fresh pea are the second most important legume in Colombia after beans. In the last
+15 years, the cultivated area in the country has increased and the department of
+Nariño contributes 58 % of national production; the producing area is concentrated in
+the Obando exprovincia subregion to the south of the department and is cultivated
+mainly by smallholdings. This crop is one of the most representative agricultural
+production systems in the region, a key element of food and nutritional security and
+one of the main sources of income for rural families. This study identified the
+typologies of producers in the municipalities of Puerres and Córdoba (Nariño) based
+on a sample of 117 pea, to whom a structured survey was applied; the data were
+analyzed using a hierarchical method and four groups of adopters were established.
+The main differentiating variables were sociodemographic variables, experience in
+the crop, technology adoption and its relationship to quality of life and migration
+processes. This type of analysis contributes to multiple purposes, from understanding
+to a certain extent the complexity of rural societies, as well as defining public policies
+and determining key aspects for technology adoption.
+Key words: vegetables, typology, smallholders, technology adoption.
+Fecha de radicación: 26 de enero de 2023 Fecha de aceptación: 23 de mayo de
+2023 Fecha de publicación: 30 de junio de 2023
+
+INTRODUCCIÓN
+Históricamente, el cultivo de arveja (Pisum sativum L.) ha sido de mucha importancia
+en la economía familiar de pequeños y medianos agricultores de las zonas
+altoandinas de Colombia y uno de los soportes de la seguridad alimentaria y
+nutricional, principalmente en departamentos como Boyacá, Cundinamarca,
+Antioquia, Tolima y Nariño (Álvarez-Sánchez & Gómez-López, 2020; TorresCitar: Zuluaga-Mogollón, M. V., Romero-Barrera, Y., & Cadena-Pastrana, A. M. (2023). Tipología de productores
+de arveja (Pisum sativum L.) en los municipios Córdoba y Puerres, Nariño (Colombia). Ciencia y agricultura,
+20(2), 15543. https://doi.org/10.19053/01228420.v20.n2.2023.15543
+
+Martínez et al., 2020; Checa et al., 2022), siendo este último, el primer productor a
+nivel nacional con una participación del 31 % del mercado, área total sembrada de
+6.900 hectáreas (ha) y producción de 39.330 toneladas (t) (FENALCE, 2023).
+Debido a la actualización tecnológica para la producción de arveja y la obtención por
+mejoramiento genético de nuevas variedades volubles como la ICA-Corpoica
+Sindamanoy, Obonuco Andina y Obonuco San Isidro, entre otras; a partir del año
+1995, la subregión conocida como exprovincia Obando (se encuentran municipios
+como Ipiales, Pupiales, Gualmatán, Puerres, Potosí y Córdoba) se posicionó en el
+mercado nacional como una región especializada en el cultivo de arveja, que ha
+conllevado a un proceso de reconversión productiva frente a actividades
+convencionales en la zona como la siembra de papa, trigo o la explotación
+ganadera, constituyéndose en un eje de desarrollo regional de sus comunidades en
+los últimos años (Torres-Martínez et al., 2020).
+Según datos del Ministerio de Agricultura y Desarrollo Rural de Colombia - MADR
+(2020), se estima que en la actualidad en esta región, el cultivo de arveja soporta el
+empleo de 26.000 productores y genera alrededor de 2,3 millones de jornales y
+15.000 empleos directos (Cadena et al., 2022; Checa et al., 2022).
+La producción de este cultivo se realiza bajo una estructura de minifundio con áreas
+entre 0,5 y 2,0 ha, desarrollada básicamente por comunidades campesinas e
+indígenas, quienes hacen uso principalmente de mano de obra familiar, escalonan la
+producción durante el año, usan diferentes estrategias de manejo del cultivo,
+afrontan diversas problemáticas técnicas, comerciales y socioambientales, lo cual,
+sumado a la alta diversidad de ecosistemas presentes en el departamento, demanda
+un análisis complejo en cuanto a recomendaciones para la toma de decisiones
+referidas al manejo del sistema productivo de arveja que puedan dar respuesta a las
+demandas de competitividad y sustentabilidad del mercado (Álvarez-Sánchez et al.,
+2019; Zuluaga-Mogollón, 2019; Cadena et al., 2022).
+Una posible solución a este reto, es realizar ejercicios de tipificación, mediante los
+cuales se analizan en conjunto la diversidad de los ecosistemas, características de
+los productores agropecuarios, sus sistemas de producción y las posibles relaciones
+que se puedan dar (Goswami et al., 2014; Nyambo et al., 2019), mediante la
+aplicación de técnicas de análisis multivariados para generar grupos o tipos ya sea
+Citar: Zuluaga-Mogollón, M. V., Romero-Barrera, Y., & Cadena-Pastrana, A. M. (2023). Tipología de productores
+de arveja (Pisum sativum L.) en los municipios Córdoba y Puerres, Nariño (Colombia). Ciencia y agricultura,
+20(2), 15543. https://doi.org/10.19053/01228420.v20.n2.2023.15543
+
+de fincas o productores específicos que faciliten realizar recomendaciones más
+acordes con la realidad local, diversidad en la forma de pensar, sentir y producir, así
+como la relación con el entorno (Saravia et al., 2013).
+Cada agrupación de productores estará relacionada con la estructura del sistema
+productivo, tecnología, relaciones sociales, valores, planificación y objetivos de las
+personas que
+
+integran
+
+el
+
+sistema
+
+(Mądry
+
+et al.,
+
+2013), permitiendo
+
+la
+
+conceptualización heurística del sujeto de la clasificación y en muchos casos
+proponiendo estrategias de abordaje metódico (Álvarez-Sánchez et al., 2019).
+
+En este sentido, la presente investigación tuvo por objetivo tipificar productores de
+arveja y su sistema productivo en una de las principales regiones del departamento
+de Nariño, debido a la importancia de este tipo de estudios para diferenciar las
+formas de producción, posibilidad de generar estrategias para abordar diversos
+problemas y facilitar la toma de decisiones en cuanto a estrategias de planificación o
+ejecución de procesos de competitividad y sostenibilidad del sistema productivo en
+el territorio.
+
+MATERIALES Y MÉTODOS
+Trabajo de campo: se llevó a cabo durante el año 2018, con productores de arveja
+de los municipios de Córdoba y Puerres, pertenecientes a la subregión exprovincia
+de Obando del departamento de Nariño. Esta subregión, principalmente rural, se
+encuentra habitada por comunidades campesinas e indígenas, clima frío moderado,
+altitud promedio de 2.898 msnm, presencia de importantes ecosistemas altoandinos
+como el complejo de páramo y bosques que constituyen una importante estrella
+fluvial para la región, predomina la economía agropecuaria, con los cultivos de papa,
+arveja, ganadería de leche y hortalizas (Cadena et al., 2022).
+Diseño muestral: se realizó aleatoriamente, mediante el método de muestreo por
+conglomerados, el tamaño óptimo de la muestra se calculó con la fórmula para
+estimar la proporción y al ser desconocido el valor verdadero de población, se fijó en
+0,5 % para obtener el mayor número de muestra (Rozo et al., 2020). Cada municipio
+fue considerado un conglomerado y la población objetivo correspondió a los
+Citar: Zuluaga-Mogollón, M. V., Romero-Barrera, Y., & Cadena-Pastrana, A. M. (2023). Tipología de productores
+de arveja (Pisum sativum L.) en los municipios Córdoba y Puerres, Nariño (Colombia). Ciencia y agricultura,
+20(2), 15543. https://doi.org/10.19053/01228420.v20.n2.2023.15543
+
+productores de arveja. A un nivel de significancia de 0,1 % y error máximo admisible
+del 10%, se estableció que el tamaño de muestra era de 62 encuestas a realizar en
+Puerres y 55 en Córdoba.
+Instrumento de recolección: se diseñó un formulario con cinco componentes y 39
+variables. El primer componente o de ubicación geográfica, relaciona la información
+biofísica-espacial del predio en donde se cultiva la arveja. El segundo componente o
+sociodemográfico, aborda aspectos relacionados con el género, edad, nivel
+educativo, composición familiar, lugar de residencia, relación con el predio, entre
+otros. El tercer componente o acceso a servicios públicos del predio. El cuarto
+componente o de dimensión económica, se enfoca en indagar los ingresos familiares
+y el uso en la economía familiar, acceso a crédito, origen de los ingresos y entorno
+económico. El quinto componente o de componentes productivos, consistió en
+determinar aspectos relacionados con la actividad agrícola, tales como el tiempo de
+permanencia en la actividad, producción y motivos de la adopción de las tecnologías
+de cultivo, mano de obra y adopción de tecnología.
+Sistematización y análisis de los datos: una vez colectados los datos, fueron
+sistematizados. Se utilizó estadística descriptiva y análisis de frecuencia para las
+variables de forma individual. Para la tipificación, se llevó a cabo un análisis de
+conglomerados empleando el método de varianza mínima de Ward y la distancia
+Euclídea al cuadrado, el cual es una técnica multivariada que permite resumir la
+información y agrupar los individuos según características similares (Johnson &
+Wichern, 2007). El número de grupos se determinó teniendo en cuenta la varianza
+explicada y se llevó a cabo análisis de correspondencia simple para determinar la
+relación entre las variables y los grupos conformados a un nivel de significancia de
+0,05 %.
+RESULTADOS Y DISCUSIONES
+Caracterización de la población encuestada
+Aspectos sociodemográficos: el 79 % de los encuestados son hombres y 21 %
+son mujeres, aunque de acuerdo con reportes del Censo de Población y Vivienda en
+el mismo periodo, el 51 % de la población rural de estos municipios estaba
+conformada por mujeres (DANE, 2018), lo cual evidencia la baja participación de la
+Citar: Zuluaga-Mogollón, M. V., Romero-Barrera, Y., & Cadena-Pastrana, A. M. (2023). Tipología de productores
+de arveja (Pisum sativum L.) en los municipios Córdoba y Puerres, Nariño (Colombia). Ciencia y agricultura,
+20(2), 15543. https://doi.org/10.19053/01228420.v20.n2.2023.15543
+
+mujer en espacios de opinión y consultivos. Al indagar sobre la importancia del rol de
+la mujer en el sistema productivo, el 68,4 % afirma que su participación en labores
+especializadas es muy importante para realizar labores especificas como el tutorado
+y la cosecha, además de prepara alimentos para la familia y la mano de obra externa
+al grupo familiar (Zuluaga-Mogollón, 2019; Cadena et al., 2022).
+Respecto a la edad, para las mujeres predominó el rango de edad de 50-59 años (24
+%), seguido de los rangos 40-49 y 30-39 años (20 % cada uno), mientras que, en los
+hombres, la mayoría tenía entre 40-49 años (32 %), seguido del rango 50-59 años
+(20 %). La composición familiar predominante es la nuclear (padre, madre e hijos)
+(64 %), seguida de la familia extensa (abuelos, tíos, entre otros) (26 %) y 10% a
+familias nucleares monoparentales (solo uno de los padres). Respecto al número de
+hijos, predomina un solo hijo (30 %), seguido de dos hijos (25 %), entre 3 y 5 hijos
+(25 %) y familias sin hijos (21 %).
+En cuanto al nivel de escolaridad, el 78,6% de los encuestados cursó algún grado de
+primaria, 17,8 % secundaria, 2 % estudios técnicos y el 1,7 % restante estudios
+universitarios; lo cual confirma una vez más la necesidad de mejorar el acceso a la
+educación de las comunidades rurales (Weller, 2016). A pesar de los bajos niveles
+de escolaridad encontrados, en estos municipios la tasa de analfabetismo fue inferior
+al 10% en 2015, así en Córdoba se estimó en el 4,7% y para Puerres en el 8%
+(Alcaldía de Puerres, 2016; Alcaldía de Córdoba, 2018). A pesar, de que la
+población cada vez alcanza mayores grados de escolaridad, el acceso a la
+educación superior sigue siendo limitada y esto se configura como un factor
+determinante para la adopción de tecnología (Cano et al., 2017).
+Más de la mitad de las personas encuestadas se autorreconocen como indígenas
+(52%) y pertenecen al Resguardo de Males en Córdoba y el Cabildo indígena El
+Gran Tescual en Puerres. El 48% restante correspondió a población campesina, lo
+cual coincide con las estadísticas reportadas por las alcaldías municipales (Alcaldía
+de Puerres, 2016; Alcaldía de Córdoba, 2018).
+Aspectos económicos. La principal fuente de ingreso de los encuestados,
+correspondiente al 87,17 %, respondieron que es la arveja. De estos, el 43,58 %
+Citar: Zuluaga-Mogollón, M. V., Romero-Barrera, Y., & Cadena-Pastrana, A. M. (2023). Tipología de productores
+de arveja (Pisum sativum L.) en los municipios Córdoba y Puerres, Nariño (Colombia). Ciencia y agricultura,
+20(2), 15543. https://doi.org/10.19053/01228420.v20.n2.2023.15543
+
+considera percibir más de la mitad de sus ingresos por este cultivo y el 50 % piensan
+que reciben menos de la mitad, mientras que el 12,8 % no la consideran como una
+fuente de ingreso importante. En segundo lugar, está el cultivo de la papa (72,65 %),
+donde el 41 % de las respuestas indican que reciben más del 50 % de ingresos por
+esta actividad, el 11 % considera que es menos de la mitad y los restantes no la
+considera importante.
+La Evaluación Agropecuaria Municipal desarrollada por el MADR en el año 2019,
+reporta en el sexto lugar de importancia económica es el cultivo de arveja en Nariño,
+después la papa (Solanum tuberosum), café (Coffea arabica), palma de aceite
+(Elaeis guineensis), plátano (Musa x paradisiaca) y cacao (Theobroma cacao). Los
+municipios de Córdoba y Puerres poseen el 13,4 % del área total cultivada en arveja
+en el departamento, mientras que la papa el 3,3 % (MADR, 2020). Estas cifras
+concuerdan con los resultados obtenidos en el presente estudio.
+
+Aspectos productivos. En cuanto a la experiencia como agricultor, el 30,6 % de los
+encuestados señalan entre 20-29 años, seguido de 30-39 años (22,5 %) y menor de
+9 años (6,3 %). En relación con el tiempo que lleva cultivando arveja, el 32,74 %
+lleva entre 6-10 años, seguido del 23,89 % con 16-20 años.
+Al preguntar sobre los principales factores que motivaron la adopción de las
+variedades Obonuco Andina y Obonuco San Isidro, los productores respondieron
+que se debe a su rendimiento, acceso al mercado y manejo agronómico (68 %). A
+partir de esto, se puede inferir que estas variedades son una alternativa productiva
+innovadora y que, en el momento de su lanzamiento el proceso de extensión fue
+exitoso (Cadena et al., 2022). No obstante, en consideración de aspectos como el
+conflicto armado en el territorio, la apertura económica de los años 90 y los
+programas de erradicación de cultivos de uso ilícito, se infiere que estos aspectos
+pudieron incidir en la adopción de nuevas variedades y tecnologías (ZuluagaMogollón, 2019).
+
+Citar: Zuluaga-Mogollón, M. V., Romero-Barrera, Y., & Cadena-Pastrana, A. M. (2023). Tipología de productores
+de arveja (Pisum sativum L.) en los municipios Córdoba y Puerres, Nariño (Colombia). Ciencia y agricultura,
+20(2), 15543. https://doi.org/10.19053/01228420.v20.n2.2023.15543
+
+Tipificación de productores
+Se identificaron cuatro grupos de productores con heterogeneidad entre ellos y alta
+homogeneidad entre los individuos que conforman cada uno de los agrupamientos
+(Fig. 1). Se omitieron cuatro encuestados que afirmaron no ser productores de
+arveja o no haber sembrado las variedades objetivo.
+
+Figura 1. Agrupamiento de productores de arveja por medio de la diferenciación de
+clúster jerárquico en Córdoba y Puerres (Nariño-Colombia).
+Grupo I
+Variables sociodemográficas. Se encuentra conformado por el 34 % de la
+muestra, con edades entre 40-49 años (38,64 %), de los cuales el 84,21 % son
+hombres. La mayoría de los encuestados no pertenece a una etnia indígena (68,42
+%), se encuentran asociados (55,26 %), tienen algún grado de primaria (68,42 %)
+(Fig. 2). A cerca de la percepción del impacto de las variedades de arveja, este
+grupo considera que disminuyó la migración campesina (52,63 %) y el 92,10 %
+considera que estas nuevas tecnologías mejoraron la calidad de vida.
+Variables económicas. El 81,58 % de los productores posee tierras con propiedad
+formalizada o en sana posesión, una parte de ellos considera que percibe hasta el
+50% de sus ingresos gracias a la arveja (36,84 %) y el 39,46 % percibe menos de la
+mitad. El 55,26 % tiene acceso a crédito, consideran que estas variedades han
+facilitado la sostenibilidad económica (81,58 %) y el desarrollo del municipio (81,58
+%) (Fig. 3).
+Variables productivas. Con respecto al tiempo de experiencia en el cultivo, el 52,6
+% cuenta entre 11-20 años, afirman no tener asistencia técnica (60,53 %), destinan
+Citar: Zuluaga-Mogollón, M. V., Romero-Barrera, Y., & Cadena-Pastrana, A. M. (2023). Tipología de productores
+de arveja (Pisum sativum L.) en los municipios Córdoba y Puerres, Nariño (Colombia). Ciencia y agricultura,
+20(2), 15543. https://doi.org/10.19053/01228420.v20.n2.2023.15543
+
+entre 1,01-2,00 ha para producir arveja (39,47 %) y arriendan lotes (39,47 %) (Fig.
+4). Al preguntar sobre el interés de aumentar el área del cultivo, se obtuvo una
+respuesta afirmativa por el 73,67 %, debido a la rentabilidad del cultivo (65,57 %),
+aducen que el principal motivo para adoptar estas variedades fue el rendimiento y
+conocieron las variedades por un familiar o vecino (50 %). Respecto a la rotación de
+cultivos, el 52,63 % intercala arveja con papa, la mitad no cambiaría arveja por otro
+cultivo y el 39,47 % usa predominantemente mano de obra familiar y contratada.
+
+Grupo II
+Variables sociodemográficas. El 45 % de los encuestados, tienen edades entre
+50-59 años, de los cuales el 33 % son mujeres. Afirman pertenecer a una etnia
+indígena (76,47 %), no se encuentran asociados (82,35 %) y tienen primaria
+incompleta (49,02 %) (Fig. 2). Respecto a la percepción de las variedades de arveja,
+este grupo considera que disminuyó el abandono del campo (50,98 %) y que estas
+nuevas tecnologías mejoraron la calidad de vida de sus familias (80,39 %).
+Variables económicas. Más del 80% de los encuestados afirman tener tierras con
+propiedad formalizada, una parte de ellos considera que percibe entre el 50-60 % de
+sus ingresos gracias a la arveja (37,26 %) y el 1,96 % la totalidad de los ingresos,
+además, el 11,76 % actualmente no se dedica a este cultivo. El 68,63 % tiene
+acceso a créditos y en su mayoría están de acuerdo con que estas variedades han
+facilitado la sostenibilidad económica (76,47 %) y consideran que facilitó el
+desarrollo del municipio (72,55%) (Fig. 3).
+Variables productivas: al preguntar por la experiencia en el cultivo, el 49,02 %
+tiene menos de 10 años, el 58,82 % afirman no tener asistencia técnica, destinan
+menos 1,0 ha para sembrar arveja (62,74 %) y no arriendan lotes (68,63 %) (Fig. 4).
+Cuando se preguntó sobre el interés de aumentar el área cultivada se obtuvo una
+respuesta negativa el 64,70 % de las veces, aducen que son difíciles las labores de
+mantenimiento del cultivo (39,39 %) o no justifican su respuesta (33,33 %),
+adoptaron los actuales cultivares por el rendimiento y los conocieron por el vecino o
+familiar (49,02 %). En este grupo se mencionó que la arveja se rota con papa (66,67
+%), el 72,55 % no está interesado en cambiar de cultivo y el 25,49 % usa mano de
+obra familiar y contratada.
+Citar: Zuluaga-Mogollón, M. V., Romero-Barrera, Y., & Cadena-Pastrana, A. M. (2023). Tipología de productores
+de arveja (Pisum sativum L.) en los municipios Córdoba y Puerres, Nariño (Colombia). Ciencia y agricultura,
+20(2), 15543. https://doi.org/10.19053/01228420.v20.n2.2023.15543
+
+Grupo III
+Variables sociodemográficas: constituido por el 14 % de la muestra, tienen edades
+entre 40-49 años, de los cuales el 93,75 % son hombres. Ninguno pertenece a una
+etnia indígena, el 68,75 % hacen parte de una asociación y tienen algún grado de
+escolaridad en primaria (81,25 %) (Fig. 2). A cerca de la percepción de las
+variedades de arveja, este grupo considera que no disminuyó la migración
+campesina (56,25 %) y todos consideran que estas nuevas tecnologías mejoraron la
+calidad de vida.
+Variables económicas: respecto a la tenencia de la tierra, el 75 % manifestaron
+posesión regular según los tipos de tenencia en el país, gran parte de ellos
+considera percibir entre entre el 10 al 50% de sus ingresos por el cultivo de arveja
+(56,25 %) y el 6,25 % no perciben ingresos por este concepto. El 68,75 % tiene
+acceso al crédito, perciben que la adopción de estas variedades ha permitido la
+sostenibilidad económica y de la familia (87,50 %) y consideran que han facilitado el
+desarrollo municipal (93,75 %) (Fig. 3).
+Variables productivas. Los encuestados cuentan con más de 10 años de
+experiencia en el cultivo de arveja (50 %), no tienen asistencia técnica (68,7 %), el
+43,75 % destinan menos de 1 ha y el 37,59 % entre 1,01-2,00 ha al cultivo, el
+75,00% de ellos arrienda lotes para establecer diferentes cultivos (Fig. 4). En cuanto
+al interés por aumentar el área sembrada, el 62,50 % no está interesado por la baja
+rentabilidad o no justificaron su respuesta (25 %), pese a que más de la mitad de
+ellos adoptaron estos materiales por rendimiento y los conocieron por familiares o
+amigos. Rotan con cultivos diferentes a la papa (50 %); no cambiarían la arveja por
+otro cultivo (18,75 %) y cambiarían por variedades mejoradas (25 %) o sustituirían
+por pastos, frutales, cebada o trigo (37,50 %). Al igual que en los anteriores grupos,
+emplean mano de obra familiar y contratada (43,7 %).
+
+Grupo IV
+Variables sociodemográficas. Este es el grupo más pequeño con el 7 % de los
+encuestados, edades entre los 40-49 años y mayores a 70 años en igual proporción
+Citar: Zuluaga-Mogollón, M. V., Romero-Barrera, Y., & Cadena-Pastrana, A. M. (2023). Tipología de productores
+de arveja (Pisum sativum L.) en los municipios Córdoba y Puerres, Nariño (Colombia). Ciencia y agricultura,
+20(2), 15543. https://doi.org/10.19053/01228420.v20.n2.2023.15543
+
+(37,5 %), el 12,5 % son mujeres. El 75 % manifestó pertenecer a una etnia indígena
+y el 62,5 % no se encuentran asociados. El 87,50 % tiene algún grado de
+escolaridad primaria (Fig. 2). Considera que las variedades de arveja mitigaron la
+migración de la población (62,50 %) y mejoró la calidad de vida (100 %).
+Variables económicas: El 87,5 % afirmó la posesión regular de la tierra, no percibe
+ingresos (37,5 %) o menos de la mitad de sus ingresos por el cultivo de arveja (25
+%). El 62,5 % de ellos no tiene acceso a crédito, consideran que estas variedades
+han facilitado la sostenibilidad económica (87,50 %) y el desarrollo económico del
+municipio (100 %) (Fig. 3).
+Variables productivas. El 25 % de las personas tienen más de 21 años de
+experiencia en el cultivo, la mitad no cuenta con asistencia técnica, destina menos
+de 1 ha (37,5 %) o entre 1,01-2,00 ha (25 %) para el cultivo, arrienda suelo entre 1-2
+ha y menos de 0,5 ha para establecer nuevos cultivos en igual proporción (25 %)
+(Fig. 4). Están interesados en aumentar el área del cultivo (62,5 %) debido a la
+rentabilidad del cultivo, facilidad de trabajo y de contar con más tierra (60,00 %).
+Ellos adoptaron estas variedades en su momento por el rendimiento, las conocieron
+por vecinos o familiares (62 %), rotan con papa (50 %), pastos (25 %) u otros (25 %).
+No está dispuesto a cambiar la arveja por otro cultivo (75 %), usan mano de obra
+familiar y contratada (25 %) o la vuelta de mano como una estrategia de trabajo
+colaborativo, pero sin remuneración (25 %).
+
+Citar: Zuluaga-Mogollón, M. V., Romero-Barrera, Y., & Cadena-Pastrana, A. M. (2023). Tipología de productores
+de arveja (Pisum sativum L.) en los municipios Córdoba y Puerres, Nariño (Colombia). Ciencia y agricultura,
+20(2), 15543. https://doi.org/10.19053/01228420.v20.n2.2023.15543
+
+Figura 2. Características sociodemográficas de productores de arveja en Córdaba y
+Puerres (Nariño-Colombia).
+
+Figura 3. Características económicas de productores de arveja en Córdaba y
+Puerres (Nariño-Colombia).
+
+Citar: Zuluaga-Mogollón, M. V., Romero-Barrera, Y., & Cadena-Pastrana, A. M. (2023). Tipología de productores
+de arveja (Pisum sativum L.) en los municipios Córdoba y Puerres, Nariño (Colombia). Ciencia y agricultura,
+20(2), 15543. https://doi.org/10.19053/01228420.v20.n2.2023.15543
+
+Figura 4. Características productivas de productores de arveja en Córdaba y
+Puerres (Nariño-Colombia).
+En los grupos II y IV, es evidente el fenómeno de envejecimiento de los productores
+agropecuarios, esto se puede explicar debido a que la zona fue expuesta a procesos
+de migración a raíz del conflicto armado, los jóvenes abandonaron el campo
+buscando nuevas alternativas de trabajo, acceso a la educación y por ende mejores
+condiciones de vida, los procesos de transferencia de tecnología no son los más
+adecuados, lo que trajo consigo disminución de la productividad y acceso limitado a
+nuevos mercados (Lozano & García, 2018).
+Las variables que permiten comprender los mecanismos para la toma de decisiones,
+dinámicas en el territorios y la maximización de la producción según los recursos
+disponibles (Hamann-Salcedo et al., 2019) hacen parte de la ecuación de la teoría
+de la producción (tierra, capital y trabajo), al analizar su relación con los grupos
+conformados, no se encontraron asociaciones significativas. En todos los
+agrupamientos predominó la posesión regular de la tierra; en los grupos I, II y III
+tienen acceso a crédito, lo que concuerda con lo expresado por Torres-Martínez et
+al. (2020), quien encontró que el 76% de los productores de arveja en Nariño
+recurren a este mecanismo de financiación para la etapa de siembra.
+Respecto a la percepción de las variedades Obonuco Andina y Obonuco San Isidro,
+predomina la percepción de que estas facilitaron el desarrollo económico de las
+Citar: Zuluaga-Mogollón, M. V., Romero-Barrera, Y., & Cadena-Pastrana, A. M. (2023). Tipología de productores
+de arveja (Pisum sativum L.) en los municipios Córdoba y Puerres, Nariño (Colombia). Ciencia y agricultura,
+20(2), 15543. https://doi.org/10.19053/01228420.v20.n2.2023.15543
+
+familias y en general del territorio, a excepción del grupo II. Estos materiales son
+importantes para la región ya que permitieron estabilizar la economía de pequeños
+productores (Zuluaga-Mogollón, 2019; Cadena et al., 2022; Checa et al., 2022).
+Para las variables sociodemográficas se presentó una asociación significativa entre
+los grupos y pertenencia étnica, asociatividad, adopción-disminución de la migración
+y adopción-mejoramiento de la calidad de vida. En el grupo III, todos los
+encuestados manifestaron no pertenecer a una etnia, pero si estar asociados, esto
+se puede explicar debido a que las comunidades indígenas son consideradas un tipo
+de organización que ofrecen a los integrantes ayuda mutua, solidaridad, seguridad y
+reciprocidad, entre otras (Villota, 2023). Además, la población campesina considera
+que entre las ventajas de estar asociados se encuentra el acceso a ciertos
+beneficios, programas y proyectos.
+Al momento de la liberación de las variedades de arveja Obonuco Andina y San
+Isidro en el año 2005, los productores que actualmente se encuentran en el rango de
+edad mayor a 70 años, estaban en etapa productiva y fueron testigo de los conflictos
+en el territorio. Es quizás por esto, que estas personas relacionan positivamente la
+llegada de estas variedades con la disminución de la migración campesina y el
+mejoramiento de la calidad de vida (Zuluaga-Mogollón, 2019; Cadena et al., 2022).
+Entre las variables productivas, se destaca que, en todos los grupos predominan
+áreas destinadas para arveja menor a 1 ha de suelo y que ninguno de los
+productores agropecuarios poseen tierras con áreas equivalentes a la Unidad
+Agrícola Familiar - UAF para clima frío en esta zona del país de 10-14 ha (INCORA,
+1996). La producción de arveja se concentra en minifundios, es decir, suelo con
+áreas menores a 0,5 ha, siendo este fenómeno más visible en departamentos de
+vocación agrícola tales como Nariño, donde predomina los sistemas productivos de
+hortalizas y cultivos transitorios de clima frio (Botia-Carreño, 2019).
+
+CONCLUSIONES
+Fueron identificadas cuatro tipologías de productores de arveja en los municipios de
+Córdoba y Puerres al sur de Nariño, los grupos se diferenciaron por variables
+relacionadas con la edad, género, pertenencia étnica, escolaridad, asociatividad,
+Citar: Zuluaga-Mogollón, M. V., Romero-Barrera, Y., & Cadena-Pastrana, A. M. (2023). Tipología de productores
+de arveja (Pisum sativum L.) en los municipios Córdoba y Puerres, Nariño (Colombia). Ciencia y agricultura,
+20(2), 15543. https://doi.org/10.19053/01228420.v20.n2.2023.15543
+
+calidad de vida, años de experiencia en arveja, deseo de aumentar el área
+sembrada en arveja, cambio de cultivo, y variables de percepción tales como
+lacontribución de la adopción de nuevos cultivares con la reducción de la migración y
+mejoramiento de la calidad de vida en la región.
+La identificación de tipologías de productores de arveja permitió determinar los
+intereses, motivaciones y percepciones en común de las personas por grupo y esto
+permitirá orientar acciones para desarrollar estrategias relacionadas con la difusión
+de tecnología, incentivos y programas entre otros.
+A partir de la liberación de las variedades de arveja Obonuco Andina y Obonuco San
+Isidro en el 2005, se generaron dinámicas económicas y productivas en el territorio
+que incidieron en la percepción de mejoramiento en la calidad de vida de los
+encuestados y sus familias, así como en el desarrollo del territorio.
+En el estudio, las variables productivas fueron clave para la diferenciación de las
+tipologías, es evidente que la producción de arveja se realiza en áreas de minifundio
+y que, aunque existe la intención del aumento del área de cultivo, la principal
+limitante es la disponibilidad de tierra para el desarrollo de la actividad agrícola.
+
+Agradecimientos: Esta investigación fue financiada con recursos públicos del
+Ministerio de Agricultura y Desarrollo Rural – MADR de Colombia, a través de la
+Corporación Colombiana de Investigación Agropecuaria – Agrosavia, entidades a las
+cuales extendemos nuestros agradecimientos. Así mismo, a las comunidades del
+Cabildo indígena El Gran Tescual, Asociación Nacional de Usuarios Campesinos –
+ANUC del municipio de Puerres y Cabildo indígena de Males en el municipio de
+Córdoba. A la Ingeniera Yanine Rozo por sus aportes metodológicos y apoyo
+permanente.
+
+REFERENCIAS
+Alcaldía de Córdoba. (2018). Plan de desarrollo ‘Construyendo unidos el futuro de
+Córdoba: nuestro Municipio’. http://www.cordoba-narino.gov.co/
+Citar: Zuluaga-Mogollón, M. V., Romero-Barrera, Y., & Cadena-Pastrana, A. M. (2023). Tipología de productores
+de arveja (Pisum sativum L.) en los municipios Córdoba y Puerres, Nariño (Colombia). Ciencia y agricultura,
+20(2), 15543. https://doi.org/10.19053/01228420.v20.n2.2023.15543
+
+Alcaldía de Puerres. (2016). Plan de Desarrollo ‘Hicimos historia, construimos futuro
+2016-2019’. http://www.puerres-narino.gov.co/
+
+Álvarez-Sánchez, D., & Gómez-López, E. (2020). Estimación de la sustentabilidad
+de fincas productoras de arveja en el municipio de Ipiales, Nariño-Colombia.
+Revista U.D.C.A Actualidad & Divulgación Científica, 23(1).
+https://doi.org/10.31910/rudca.v23.n1.2020.1578
+
+Álvarez-Sánchez, D., Gómez-López, E. D., & Ordóñez-Hurtado, H. R. (2019).
+Tipología de fincas productoras de arveja (Pisum sativum L.) en la subregión
+Sur de Nariño, Colombia. Ciencia & Tecnología Agropecuaria Agropecuaria,
+20(3), 659–677. https://doi.org/10.21930/rcta.vol20_num3_art:1593
+
+Botia-Carreño, W. H. (2019). Unidad Agrícola Familiar (UAF), instrumento de política
+pública agropecuaria en Colombia. Pensamiento y Acción, 27, 59-89.
+
+Cadena, A. M., Riascos, M. E., Castro, A., Delgado, A. M., Zambrano, G., &
+Vásquez, A. R. (2022). Impacto de las variedades Obonuco Andina y San Isidro
+en el departamento de Nariño, Colombia. Revista de Investigaciones
+Altoandinas, 24(4), 257–266. https://doi.org/10.18271/ria.2022.452
+
+Cano, C. G., Ramírez, M. T., Tribín, A. M. & Iregui, A. M.(Eds.). (2017). El desarrollo
+equitativo, competitivo y sostenible del sector agropecuario en Colombia. Banco
+de la República.
+
+Checa, O. E., Rodríguez, D. M., Ruiz, M. H., & Muriel, J. E. (2022). La arveja:
+Investigación y tecnología en el sur de Colombia. Universidad de Nariño.
+http://sired.udenar.edu.co/id/eprint/7303
+Citar: Zuluaga-Mogollón, M. V., Romero-Barrera, Y., & Cadena-Pastrana, A. M. (2023). Tipología de productores
+de arveja (Pisum sativum L.) en los municipios Córdoba y Puerres, Nariño (Colombia). Ciencia y agricultura,
+20(2), 15543. https://doi.org/10.19053/01228420.v20.n2.2023.15543
+
+DANE, Departamento Administrativo Nacional de Estadística Colombia. (2018).
+Censo Nacional de Población y Vivienda 2018.
+https://www.dane.gov.co/index.php/estadisticas-por-tema/demografia-ypoblacion/censo-nacional-de-poblacion-y-vivenda-2018
+
+FENALCE, Federación Nacional de Cultivadores de Cereales, Leguminosas y Soya
+Colombia. (2023). Histórico de área, producción y rendimiento: cereales y
+leguminosas [base de datos]. https://app.powerbi.com/view?
+r=eyJrIjoiM2FiYzM5ZTAtNjFmNi00MGQyLWFiYzYtNGI0YTJiZTcwZWQwIiwidCI
+6IjU2MmQ1YjJlLTBmMzEtNDdmOC1iZTk4LThmMjI4Nzc4MDBhOCJ9
+
+Goswami, R., Chatterjee, S., & Prasad, B. (2014). Farm types and their economic
+characterization in complex agro-ecosystems for informed extension
+intervention: study from coastal West Bengal, India. Agricultural and Food
+Economics, 2(1), Artículo 5. https://doi.org/10.1186/s40100-014-0005-2
+
+Hamann-Salcedo, F. A., Arias-Rodriguez, F., Bejarano-Rojas, J. A., GáfaroGonzález, M. M., Méndez-Vizcaíno, J. C., & Poveda-Olarte, A. (2019).
+Productividad total de los factores y eficiencia en el uso de los recursos
+productivos en Colombia. Ensayos Sobre Política Económica, 89, 1–54.
+https://doi.org/10.32468/espe.89
+
+INCORA, Instituto Colombiano de la Reforma Agraria Colombia. (1996). Resolución
+No. 041 de 1996. Determinación de extensiones para las UAFs: Por la cual se
+determinan las extensiones de las unidades agrícolas familiares, por zonas
+relativamente homogéneas, en los municipios situados en las áreas de
+influencia de las respectivas gerencias regionales.
+https://planeacion.boyaca.gov.co/descargas/Normatividad_Pots/resolucin
+%20041%201996.pdf
+Citar: Zuluaga-Mogollón, M. V., Romero-Barrera, Y., & Cadena-Pastrana, A. M. (2023). Tipología de productores
+de arveja (Pisum sativum L.) en los municipios Córdoba y Puerres, Nariño (Colombia). Ciencia y agricultura,
+20(2), 15543. https://doi.org/10.19053/01228420.v20.n2.2023.15543
+
+Johnson, R. A., & Wichern, D. W. (2007). Applied multivariate statistical analysis (6th
+Ed). Pearson Modern Classics.
+
+Lozano, J. L. & García, D. (2018). Envejecimiento rural en la localidad de Sumapaz,
+Bogotá D.C., 2014-2016. Opinión Pública, 10, 33–41.
+https://revistas.cun.edu.co/index.php/opinionpublica/article/view/544/398
+
+MADR, Ministerio de Agricultura y Desarrollo Rural Colombia. (2020). Cadena de la
+papa – Cifras sectoriales. Junio 2020.
+https://sioc.minagricultura.gov.co/Papa/Documentos/2020-06-30%20Cifras
+%20Sectoriales.pdf
+
+Mądry, W., Mena, Y., Roszkowska-Mądra, B., Gozdowski, D., Hryniewski, R., &
+Castel, J. M. (2013). An overview of farming system typology methodologies and
+its use in the study of pasture-based farming system: a review. Spanish Journal
+of Agricultural Research, 11(2), 316. https://doi.org/10.5424/sjar/2013112-3295
+
+Nyambo, D., Luhanga, E. T., & Yonah, Z. Q. (2019). A review of characterization
+approaches for smallholder farmers: Towards predictive farm typologies.
+Scientific World Journal, 2019, Artículo 6121467.
+https://doi.org/10.1155/2019/6121467
+
+Rozo, Y., Romero, Y., & Tofiño, A. P. (2020). Aspectos sociales y culturales de la
+producción de hortalizas en la región Caribe de Colombia. In A. M. Martínez El
+cultivo de hortalizas en la región Caribe de Colombia. Aspectos tecnológicos,
+económicos y de mercado (pp. 31–55). AGROSAVIA.
+https://doi.org/https://doi.org/10.21930/agrosavia.investigation.7404074
+
+Citar: Zuluaga-Mogollón, M. V., Romero-Barrera, Y., & Cadena-Pastrana, A. M. (2023). Tipología de productores
+de arveja (Pisum sativum L.) en los municipios Córdoba y Puerres, Nariño (Colombia). Ciencia y agricultura,
+20(2), 15543. https://doi.org/10.19053/01228420.v20.n2.2023.15543
+
+Saravia, S., Cimpoies, D., & Ronzon, T. (2013). Panorama of typologies of
+agricultural holdings. FAO. https://www.fao.org/3/bl333e/bl333e.pdf
+
+Torres-Martínez, F. J., Rivadeneira-Miranda, C. N., & Castillo-Marín, Á. J. (2020).
+Producción y comercialización de arveja en el departamento de NariñoColombia. Agronomía Mesoamericana, 31(1), 129–140.
+https://doi.org/10.15517/am.v31i1.36776
+
+Villota, L. J. (2023). Caracterización y sostenibilidad del emprendimiento social rural
+en agronegocios asociativos al sur de Nariño. Tendencias, 24(1) 50–78.
+https://doi.org/10.22267/rtend.222302.215
+
+Weller, J. (Ed.) (2016). Brechas y transformaciones: la evolución del empleo
+agropecuario en América Latina. Comisión Económica para América Latina y el
+Caribe (CEPAL). https://doi.org/10.18356/daa2f77a-es
+
+Zuluaga-Mogollón, M. (2019). Adopción tecnológica como estrategia de desarrollo
+local: "el acaso de las variedades de arveja Obonuco Andina y San Isidro en los
+municipios de Córdoba y Puerres, Nariño, Colombia. 2000-2015 [Tesis de
+maestría, Universidad Pedagógica y Tecnológica de Colombia].
+
+Citar: Zuluaga-Mogollón, M. V., Romero-Barrera, Y., & Cadena-Pastrana, A. M. (2023). Tipología de productores
+de arveja (Pisum sativum L.) en los municipios Córdoba y Puerres, Nariño (Colombia). Ciencia y agricultura,
+20(2), 15543. https://doi.org/10.19053/01228420.v20.n2.2023.15543
+
+
