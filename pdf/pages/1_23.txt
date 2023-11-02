@@ -1,0 +1,217 @@
+Global Health Metrics1812  www.thelancet.com   Vol 392   November 10, 2018Prevalence (thousands) 
+2017 countsIncidence (thousands) 2017 countsYLDs (thousands)
+2017 counts Percentage 
+change in counts, 
+1990–2007Percentage change in counts, 2007–17Percentage change in age-standardised rates, 1990–2007Percentage change in age-standardised rates, 2007–17
+(Continued from previous page)
+Asymptomatic ischaemic heart disease following myocardial infarction37
+ 908·6 
+(31 907·4 to 44  225·6)·· ·· ·· ·· ·· ··
+Angina due to 
+ischaemic 
+heart disease70 969·3 
+(66 224·1 to 75  830·1)·· 3850·4 
+(2615·6 to 5381·2)35·1% 
+(34·3 to 35·9)*22·9% 
+(22·2 to 
+23·5)*−10·0% 
+(−10·4 to −9·5)*−4·6% 
+(−5·0 to −4·2)*
+Heart failure due to ischaemic heart disease17
+ 007·2 
+(14 512·0 to 19  849·5)·· 1388·9 
+(951·7 to 1947·2)37·2% 
+(33·2 to 41·7)*25·9% 
+(24·3 to 
+27·5)*−13·5% 
+(−16·2 to −10·7)*−6·4% 
+(−7·6 to −5·1)*
+Myocardial infarction due to ischaemic heart disease566·4 
+(505·5 to 634·4)10
+ 636·5 
+(9573·2 to 
+11 794·5)52·7 
+(36·6 to 72·9)48·9% 
+(46·1 to 51·7)*13·6% 
+(10·5 to 
+16·6)*−4·2% 
+(−5·9 to −2·5)*−14·6% 
+(−17·0 to −12·3)*
+Stroke 104  178·7 
+(98 454·0 to 110  125·0)11 931·1 
+(11 118·4 to 12  825·8)‡18 695·4 
+(13 574·3 to 
+23 686·9)40·0% 
+(38·4 to 41·4)*43·6% 
+(39·6 to 47·8)*−4·7% 
+(−5·8 to 
+−3·7)*11·2% 
+(8·1 to 14·3)*
+Ischaemic stroke 82 417·3 
+(76 967·8 to 88  516·9)7737·5 
+(6951·1 to 8677·6)‡14 304·4 
+(10 297·5 to 
+18 176·0)42·8% 
+(40·6 to 44·9)*54·3% 
+(49·1 to 59·4)*−4·1% 
+(−5·5 to 
+−2·7)*18·1% 
+(14·1 to 22·0)*
+Acute ischaemic stroke 587·5 
+(529·1 to 655·7)7737·5 
+(6951·1 to 8677·6)‡144·3 
+(100·1 to 188·1)40·1% 
+(37·4 to 42·9)*43·0% 
+(37·0 to 49·4)*−6·9% 
+(−8·5 to −5·2)*8·8% 
+(4·3 to 13·6)*
+Chronic ischaemic stroke 81 829·7 
+(76 384·9 to 87  926·6)·· 14 160·1 
+(10 204·3 to 
+17 970·9)42·8% 
+(40·6 to 45·0)*54·4% 
+(49·2 to 59·6)*−4·1% 
+(−5·4 to 
+−2·7)*18·2% 
+(14·1 to 22·2)*
+Intracerebral haemorrhage 17 914·9 
+(16 190·6 to 19  666·6)3128·6 
+(2874·6 to 3418·0)‡2946·9 
+(2121·6 to 
+3794·1)32·1% 
+(29·9 to 34·3)*13·9% 
+(8·0 to 20·3)*−6·8% 
+(−8·2 to −5·4)*−9·5% 
+(−14·2 to −4·8)*
+Acute intracerebral haemorrhage168·7 
+(154·2 to 184·6)3128·6 
+(2874·6 to 3418·0)‡44·3 
+(31·0 to 57·8)39·4% 
+(36·8 to 42·4)*−1·9% 
+(−6·8 to 3·2)−5·5% 
+(−7·3 to −3·7)*−24·4% 
+(−28·1 to −20·6)*
+Chronic intracerebral haemorrhage17
+ 746·2 
+(16 029·3 to 19  493·5)·· 2902·6 
+(2090·3 to 3738·5)32·0% 
+(29·8 to 34·1)*14·2% 
+(8·1 to 
+20·6)*−6·8% 
+(−8·3 to −5·4)*−9·3% 
+(−14·0 to −4·4)*
+Subarachnoid haemorrhage 9321·9 
+(8523·7 to 10  242·4)1064·9 
+(953·3 to 1182·6)‡1444·2 
+(1031·6 to 1845·4)36·8% 
+(34·7 to 
+38·9)*25·0% 
+(21·3 to 28·6)*−5·7% 
+(−7·1 to −4·3)*−1·6% 
+(−4·4 to 1·2)
+Acute subarachnoid haemorrhage80·5 
+(71·7 to 89·5)1064·9 
+(953·3 to 1182·6)‡21·1 
+(14·5 to 28·0)40·2% 
+(31·1 to 43·9)*25·2% 
+(19·8 to 27·2)*−4·6% 
+(−10·2 to −2·5)*−1·6% 
+(−5·5 to −0·2)*
+Chronic subarachnoid haemorrhage9241·4 
+(8444·1 to 10
+ 171·4)·· 1423·1 
+(1016·6 to 1817·9)36·7% 
+(34·6 to 38·8)*25·0% 
+(21·2 to 
+28·6)*−5·7% 
+(−7·1 to −4·3)*−1·6% 
+(−4·4 to 1·2)
+Hypertensive heart disease 17 067·7 
+(14 426·9 to 19  874·3)·· 1408·0 
+(966·6 to 1982·4)63·8% 
+(60·5 to 
+67·2)*34·9% 
+(33·2 to 36·6)*6·0% 
+(3·8 to 8·2)*1·9% 
+(0·7 to 2·9)*
+Non-rheumatic valvular heart disease29
+ 729·1 
+(28 505·4 to 31  022·5)30 691·2 
+(29 436·4 to 32  002·2)360·8 
+(207·1 to 559·6)54·9% 
+(49·0 to 61·0)*35·8% 
+(30·9 to 
+40·7)*−4·5% 
+(−7·7 to −1·7)*−1·0% 
+(−4·3 to 2·1)
+Non-rheumatic calcific aortic valve disease12
+ 570·2 
+(11 411·8 to 13  841·1)12 570·2 
+(11 411·8 to 13  841·1)168·0 
+(96·6 to 259·9)64·8% 
+(56·5 to 73·5)*38·9% 
+(30·9 to 
+46·2)*−0·2% 
+(−5·1 to 4·3)0·2% 
+(−5·9 to 5·3)
+Heart failure due to calcific aortic valve disease1386·0 
+(896·6 to 2029·9)·· 111·0 
+(63·7 to 173·8)42·3% 
+(30·1 to 56·6)*30·6% 
+(13·2 to 47·6)*−14·1% 
+(−21·4 to −6·0)*−6·0% 
+(−19·0 to 6·2)
+Non-rheumatic calcific aortic valv
+e disease11 184·2 
+(9987·3 to 
+12 425·7)12 570·2 
+(11 411·8 to 13  841·1)56·9 
+(30·4 to 93·2)163·9% 
+(124·2 to 209·0)*58·7% 
+(36·3 to 
+84·3)*62·6% 
+(37·1 to 93·2)*15·0% 
+(−1·6 to 34·3)
+Non-rheumatic degenerative mitral valve disease18
+ 121·0 
+(17 682·3 to 18  586·4)18 121·0 
+(17 682·3 to 18  586·4)190·3 
+(109·2 to 295·3)47·4% 
+(41·5 to 52·7)*33·2% 
+(28·1 to 
+38·0)*−8·1% 
+(−11·5 to −5·4)*−2·0% 
+(−5·6 to 1·2)
+Heart failure due to degenerative mitral valve disease1723·6 
+(1111·4 to 2494·0)·· 139·9 
+(81·5 to 217·1)33·3% 
+(25·0 to 43·1)*26·7% 
+(15·5 to 38·6)*−17·1% 
+(−22·2 to −11·4)*−6·8% 
+(−15·0 to 2·0)
+Non-rheumatic degenerative mitral valve disease16
+ 397·4 
+(15 574·9 to 
+17 179·2)18 121·0 
+(17 682·3 to 18  586·4)50·5 
+(26·7 to 84·0)129·8% 
+(95·6 to 171·4)*55·2% 
+(33·1 to 
+78·0)*44·9% 
+(22·1 to 72·2)*14·0% 
+(−2·5 to 30·9)
+Other non-rheumatic valve diseases26·9 
+(22·1 to 32·2)·· 2·5 
+(1·6 to 3·6)63·1% 
+(58·9 to 67·2)*37·7% 
+(34·1 to 41·1)*7·4% 
+(5·1 to 9·4)*6·1% 
+(4·1 to 8·1)*
+Mild heart failure due to other non-rheumatic valve disease5·0 
+(3·5 to 6·8)·· 0·2 
+(0·1 to 0·3)63·6% 
+(59·2 to 68·1)*38·0% 
+(34·5 to 41·4)*7·7% 
+(5·4 to 9·9)*6·2% 
+(4·2 to 8·1)*
+(Table 1 continues on next page)

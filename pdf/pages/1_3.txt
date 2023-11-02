@@ -1,0 +1,40 @@
+Global Health Metrics1792  www.thelancet.com   Vol 392   November 10, 2018publication (Brazil, India, Japan, Kenya, Mexico, Sweden, 
+the UK, and the USA); given space constraints these results are presented in appendix tables and figures instead of in the main text (appendix 2). Subnational estimates for countries with populations larger than 200 million people (measured using our most recent year of published estimates) that have not yet been published elsewhere are presented wherever estimates are illustrated with maps but are not included in data tables. Cause-specific results for non-fatal estimates for GBD 2017 cover the years 1990–2017 . A subset of areas in this analysis focuses on 1990, 2007, and 2017 to show changes over time to better inform policy assessments.
+GBD 2017 is the first time that estimation of fertility 
+and population has been done within the GBD frame
+-
+work. Previously, the GBD study used external sources
+21,22 for fertility and population estimates, which 
+affect estimates throughout the GBD study, particularly estimates expressed in terms of population rates. The purpose of using internally derived demographic estimates is to ensure internal consistency across all GBD estimates. That is, mortality rates and fertility rates have to match population rate change such that there should be no births, deaths, or migrations that are not accounted for in our population estimates.
+GBD cause list
+In GBD 2017, we further refined the existing cause list, and added 19 new causes, increasing the number of estimated causes in GBD to 359 with 282 causes of death estimated and 354 causes of non-fatal health loss estimated. In the GBD study, causes and their sequelae are organised into hierarchical levels. Level 1 contains three broad cause groups: communicable, maternal, neonatal, and nutritional diseases (CMNN); non-communicable diseases (NCDs); and injuries. For non-fatal health estimates, there are 22 Level 2 causes, 167 Level 3 causes, and 288 Level 4 causes. We also report estimates for 3484 sequelae, nine impairments, and seven nature of injury aggregates.
+New for GBD 2017
+In GBD 2017, we report on 381 Level 5 sequelae. We have opted to include aggregate sequelae for GBD 2017 to foster more nuanced interpretations of groups of health outcomes that are relevant to policy makers and clinical users of the GBD. In addition, this reporting list allows for more detailed evaluation of aetiologies and outcomes from GBD causes.
+For the first time in the GBD study, we present the 
+burden of injuries in terms of nature of injury as well as external cause of injury. Previously, we reported the incidence, prevalence, and YLDs of injuries expressed only in terms of what caused the injury—eg, those caused by falls. However, the burden that results from falls is experienced in terms of the bodily harm that the fall itself causes—eg, spinal injury or skeletal fracture. We have grouped the 47 nature of injury sequelae into seven combined categories that represent 1410 sequelae. The supplementary methods (appendix 1) includes the full GBD 2017 non-fatal reporting hierarchy from Level 1 to Level 6.
+Data sources
+The process for non-fatal estimation begins with the compilation of data sources from a diverse set of possible sources, which include 21 possible Global Health Data Exchange (GHDx) data types ranging from scientific literature to survey data to epidemiological surveillance data. Our collaborator network provided 2842 data sources for GBD 2017 . We analysed 21
+ 100 sources of 
+epidemiological surveillance data (country-years of disease reporting) for GBD 2017 and 4734 sources of disease registry data. For non-fatal estimation, we did systematic data and literature searches for 82 non-fatal causes and one impairment, which were updated to Feb 11, 2018. Search terms used for cause-specific systematic reviews, inclusion and exclusion criteria, preferred and alternative case definitions, and study methods detailed by cause are available in the supplementary 
+methods (appendix 1 section 4). This 
+search process contributed to the use of 15  449 scientific 
+literature sources and 3126 survey sources used in non-fatal estimation, reflecting our updated counting criteria for GBD 2017 . Household survey data archived in the GHDx were systematically screened together with sources suggested by country-level experts, surveys located in multinational survey data catalogues, and Ministry of H
+ealth and Central Statistical Office websites. 
+Primary data sources containing disease prevalence, incidence, mortality risk, duration, remission, or severity were then combined in the estimation process. The supplementary methods section provides further details on gold standard data sources, adjustments, correction factors, and standardisations employed when incorpo
+-
+rating these different types of non-fatal data (appendix 1 section 4).
+In addition to data sources based on primary literature, 
+surveys, and surveillance, the GBD study has used an increasing number of hospital discharge records, out
+-
+patient visit records, and health insurance claims to inform various steps of the non-fatal modelling process. This year, we received hospital discharge records for an additional 30 country-years, specifically discharge records from India (3 country-years), Iran (10), Japan (6), J
+ordan 
+(1), Nepal (1), Brazil (2), China (1), and Italy (6); inpatient and outpatient claims from Taiwan (province of China); additional years of inpatient and outpatient claims from the USA; and inpatient claims from Singapore, representing an additional 148
+ 842 107 hospital admis -
+sions globally and bringing 
+the total number of 
+admissions that inform GBD estimation to more than 2·6 billion. Additionally, we received 10 years of out
+-
+patient visit records from 
+Norway, representing a total of For the Global Health Data 
+Exchange see http://ghdx.
+healthdata.orgSee Online for appendix 2

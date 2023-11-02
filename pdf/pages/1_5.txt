@@ -1,0 +1,42 @@
+Global Health Metrics1794  www.thelancet.com   Vol 392   November 10, 2018distinction is important for conditions such as asthma that 
+have a broad spectrum of symptomatic severities. Severity splits for most conditions use the Medical Expenditure Panel Survey (MEPS) data or literature sources identified through systematic reviews. Further detail on the severity splits for each cause, including changes from GBD 2016, are available in the cause-specific modelling write-ups in the supplementary methods (appendix 1 section 4).
+Disability weight estimation is described in more detail 
+elsewhere in the literature,
+23 but in summary, these 
+represent the severity of health loss associated with a single given health state. The supplementary methods (appendix 1) provide a complete listing of the lay descriptions of all 234 health states used in the estimation of non-fatal results for GBD 2017 .
+Comorbidity
+A combined disability weight is required to account for individuals with more than one condition. To calculate a combined disability weight, the health loss associated with two disability weights are multiplied together and then a weighted average of each constituent disability weight is calculated. The adjusted disability weight is proportional to the magnitude of the original disability weight. A simulation of 40
+ 000 distinct individuals is 
+done that calculates the distribution of comorbid con -
+ditions on the basis of the expected distribution of each condition’s sequelae in the population. Then, the resulting distributions of 
+comorbidity-adjusted disability 
+weights are used to calculate YLDs. This process did not change from GBD 2016.
+YLD computation
+YLDs were estimated as the product of prevalence estimate and a disability weight for health states of each mutually exclusive sequela, adjusted for comorbidity as described above. The GBD cause hierarchy also includes 35 residual disease categories to capture YLDs from conditions that lack specific estimation models.
+Uncertainty analysis
+We apply the same technique for propagating uncertainty as used elsewhere in the GBD study design.
+19,24,25 The 
+distribution of every step in the computation process is stored in 1000 draws that are used for every other step in the process. The distributions are determined from the sampling error of data inputs, the uncertainty of the model coefficients, and the uncertainty of severity distributions and disability weights. Final estimates are computed using the mean estimate across 1000 draws, and the 95% uncertainty intervals (UIs) are determined on the basis of the 25th and 975th ranked values across all 1000 draws.
+The Socio-demographic Index
+The Socio-demographic Index (SDI) is a summary measure that estimates a location’s position on a spectrum of development.
+26 The SDI was originally con  structed for 
+GBD 2015 using the Human Development Index (HDI) methodology
+, wherein a 0–1 index value was determined 
+for each of the original three covariate inputs (total fertility rate in women aged 15–49 years, educational attainment over the age of 15 years, and lag-distributed income per capita) using the observed minima and maxima over the estimation period to set the scales. In response to feedback from collaborators, we have refined the indicator with each GBD cycle. For GBD 2017, we replaced the total fertility rate with the total fertility rate in women under the age of 25 years. The GBD 2017 Population and Fertility
+24 analysis of age-specific fertility 
+rates revealed that through the process of development, many countries exhibited a decline in age-specific fertility rates over the age of 30 years and then increased, creating a U-shaped pattern; however, age-specific fertility rates in ages 10–14 years, 15–19 years, 20–24 years, and total fertility under 25 years did not exhibit this pattern. Total fertility under 25 years remains highly correlated with mortality measures including under-5 mortality rates (Pearson’s correlation coefficient r=0·873), and results 
+from this revised method for computing SDI and results from GBD 2016 are also correlated (r =0·992).
+24 We 
+computed the composite SDI as the geometric mean of the three indices for each location-year. The cutoff values used to determine quintiles for analysis were then computed using country-level estimates of SDI for 2017, excluding countries with populations of less than 1 million. These quintiles are used to categorise and present GBD 2017 results on the basis of sociodemographic status. The SDI values ranged from a low of 0·191 in Niger to a high of 0·918 in Denmark in 2017 . Additional details on and results from the SDI calculation are available in the supplementary methods (appendix 1 section 2).
+Role of the funding source
+The funder of the study had no role in study design, data collection, data analysis, data interpretation, or writing the report. All authors had full access to the data in the study and had final responsibility for the decision to submit for publication.
+Results
+Global prevalence, incidence, and YLDs
+Non-fatal estimates by cause for 354 causes and nine impairments for the years 1990, 2007, and 2017 are available by age and sex through the online results tool. Results and findings mentioned in the discussion can also be viewed interactively through an online data visualisation tool.
+Figure 1 shows the data density in terms of site-years by 
+GBD region, cause group, and year. The figure shows how data density generally improves over time and how certain regions, particularly higher income regions, are more data dense than others. Additionally, the figure For the online results tool see 
+https://collab2017 .healthdata.
+org/gbd-search
+For the online data visualisation 
+tool see https://vizhub.
+healthdata.org/gbd-compare

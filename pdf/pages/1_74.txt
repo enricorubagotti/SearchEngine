@@ -1,0 +1,34 @@
+productores de arveja. A un nivel de significancia de 0,1 % y error máximo admisible
+del 10%, se estableció que el tamaño de muestra era de 62 encuestas a realizar en
+Puerres y 55 en Córdoba.
+Instrumento de recolección:  se diseñó un formulario con cinco componentes y 39
+variables. El primer componente o de ubicación geográfica, relaciona la información
+biofísica-espacial del predio en donde se cultiva la arveja. El segundo componente o
+sociodemográfico,  aborda  aspectos  relacionados  con  el  género,  edad,  nivel
+educativo, composición familiar, lugar de residencia, relación con el predio, entre
+otros. El tercer componente o acceso a servicios públicos del predio. El cuarto
+componente o de dimensión económica, se enfoca en indagar los ingresos familiares
+y el uso en la economía familiar, acceso a crédito, origen de los ingresos y entorno
+económico.  El  quinto  componente  o  de  componentes  productivos,  consistió  en
+determinar aspectos relacionados con la actividad agrícola, tales como el tiempo de
+permanencia en la actividad, producción y motivos de la adopción de las tecnologías
+de cultivo, mano de obra y adopción de tecnología.
+Sistematización y análisis de los datos:  una vez colectados los datos, fueron
+sistematizados. Se utiliz ó estadística descriptiva y análisis de frecuencia para las
+variables de forma individual. Para la tipificación, se llevó a cabo un análisis de
+conglomerados empleando el método de varianza mínima de Ward y la distancia
+Euclídea al cuadrado, el cual es una técnica multivariada que permite resumir la
+información  y  agrupar  los  individuos  según  características  similares  ( Johnson &
+Wichern, 2007). El número de grupos se determinó teniendo en cuenta la varianza
+explicada y se llevó a cabo análisis de correspondencia simple para determinar la
+relación entre las variables y los grupos conformados a un nivel de significancia de
+0,05 %. 
+RESULTADOS Y DISCUSIONES 
+Caracterización de la población encuestada
+Aspectos sociodemográficos:  el 79 % de los encuestados son hombres y 21 %
+son mujeres, aunque de acuerdo con reportes del Censo de Población y Vivienda en
+el  mismo  periodo,  el  51  %  de  la  población  rural  de  estos  municipios  estaba
+conformada por mujeres ( DANE, 2018), lo cual evidencia la baja participación de la
+Citar: Zuluaga-Mogollón, M. V., Romero-Barrera, Y., & Cadena-Pastrana, A. M. (2023). Tipología de productores
+de arveja (Pisum sativum L.) en los municipios Córdoba y Puerres, Nariño (Colombia).  Ciencia y agricultura,
+20(2), 15543. https://doi.org/10.19053/01228420.v20.n2.2023.15543     

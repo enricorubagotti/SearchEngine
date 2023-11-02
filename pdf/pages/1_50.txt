@@ -1,0 +1,41 @@
+Global Health Metricswww.thelancet.com   Vol 392   November 10, 2018  1839Opioid use disorders including opioid dependence 
+have become an era-defining epidemic in the USA with 
+more than 4 million prevalent cases in 2017 . Outside the USA, opioid dependence was estimated to cause more than 1% of age-standardised YLDs in 135 countries in 2017, whereas in 12 out of 21 GBD regions, more than 5% of YLDs in the 15–49 year age group were caused by substance use disorders overall (appendix 2). Cumu
+-
+latively, these results show pervasive health loss from substance use, which 
+might also cause lost human 
+capital given the concentration of the burden in working ages. The burden of mental disorders is present in both sexes and across all age groups after emerging in childhood with idiopathic intellectual disability and autism spectrum disorders and continuing into older ages with depressive disorders, anxiety disorders, and schizo
+ phrenia. Mental disorders have consistently 
+formed more than 14% of age-standardised YLDs for 
+nearly three decades, and have greater than 
+10% prevalence in all 21 GBD regions. These findings substantiate a global need for increased mental health and substance abuse treatment re
+ sources, improved 
+judiciousness of opioid prescribing patterns particu -
+larly for chronic pain, and expanded harm-reduction strategies such as opioid substitution therapy and needle programmes.
+Cross-cutting themes
+Among the 22 causes in the Level 2 GBD cause hierarchy, 14 causes had a relative difference between males and females greater than or equal to 10% in terms of prevalent cases in 2017, while 12 causes had a relative difference greater than 10% in terms of age-standardised prevalence. Notably, females had significantly higher prevalence of HIV /AIDS and sexually transmitted infections (driven primarily by higher burden from sexually transmitted infections) and self-harm and interpersonal violence, among other causes, whereas males had significantly higher prevalence of substance use disorders and trans
+-
+port injuries, among other causes. Figure 6 illustrates how divergent trends 
+were nearly evenly distributed 
+between males and females, despite the overall higher numbers of YLDs experienced by females. As indicated by the higher Z score in female-favourable causes, the cause-regions where females did better over time tended to have greater improvements in age-standardised YLD rates than did the cause-regions where males did better over time. There were important exceptions, however: for example, with HIV /AIDS and sexually trans
+ mitted 
+infections in central sub-S
+aharan Africa, the age-
+standardised YLD rates for females increased by 30·0% (95% UI 6·8–68·1), while rates for males decreased by 43·0% (23·2–58·5) between 1990 and 2017 . This particular trend reveals a striking lapse in health equity given the extensive knowledge of treatment and prevention methods for HIV /AIDS and many sexually transmitted infections.These observations imply that health systems might 
+have achieved improvements in non-fatal burden that have not been shared across sexes. The underlying reasons for these imbalances are likely to be complex. For causes that are inherently more common in males or females, improvements in one sex over the other might reflect these causes differing in susceptibility to prevention, intervention, and treatment. For example, autoimmune conditions such as rheumatoid arthritis can affect both males and females but are ordinarily more common in females.
+64,65 However, such a cause still 
+leads to increased disability that might also have ramifications not captured in a health study, such as income loss due either to disability at young ages or to the cost of modern immunotherapies. Similarly, females of childbearing age experience risk of pregnancy-related and maternal conditions, risks that could be pronounced in lower-resource settings without sufficient access to modern obstetric facilities and follow-up care.
+66,67 Other 
+causes have firmly established causal risk factors such as smoking and chronic obstructive pulmonary disease (COPD), where the higher COPD rates in males are probably due to historically higher rates of smoking compared with females. Additionally, some causes may be susceptible to systematic misdiagnosis due to conventional clinical heuristics based on flawed or non-existent evidence. For example, in some areas, females presenting with acute coronary syndrome are more commonly misdiagnosed,
+68 whereas other causes, such 
+as autism spectrum disorders, might be systematically underdiagnosed in females compared with males.
+69–71 
+These biases in sex-specific misdiagnosis emphasise the need for continued refinement in sex-specific burden estimation.
+While YLD rates are highest in older ages, globally, 
+YLD counts are heavily concentrated in working-age males and females (ie, from 20–54 years), a pattern which is particularly evident among causes such as mental disorders, neurological disorders, and musculoskeletal disorders, which sum to more than 45% of all YLDs in these age groups. This finding is notable for two main reasons. First, these age groups have a considerable number of years to live that would otherwise be in full health, emphasising how conditions at these ages, even if having lower disability weights, can still contribute substantially to the non-fatal burden. Second, a disabling condition that occurs during this period of life could represent lost human capital. This loss will be increasingly important to characterise with human capital emerging as an important area of focus at the World Bank.
+72,73
+In GBD 2017, anaemia is classified as an impairment, 
+with aetiologies ranging from rare genetic haemo  globino -
+pathies to iron deficiency. Because these aetiologies alone could 
+cause a relatively small proportion of all 
+anaemia cases, the magnitude of anaemia’s burden would be obscured by the granularity of these aetiologies 

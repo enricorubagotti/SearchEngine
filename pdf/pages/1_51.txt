@@ -1,0 +1,38 @@
+Global Health Metrics1840  www.thelancet.com   Vol 392   November 10, 2018if it was not also estimated in aggregate. In 2017, the sum 
+of YLDs across all causes of anaemia was 58·2 million (95% UI 39·5–83·0), with a global age-standardised rate of 783·9 YLDs (531·3–1117·8) per 100
+ 000 for both sexes, 
+with sex-specific rates of 1012·8 YLDs (689·4–1436·5) per 100
+ 000 females, and 555·9 YLDs (370·4–801·8) per 
+100 000 males. Globally, in terms of YLD rates in 2017, 
+anaemia is the leading impairment for females, males, and both sexes combined. If anaemia were treated as a
+ 
+cause, it would rank as the fourth leading Level 2 cause and as the first leading Level 3 cause in terms of age-standardised YLD rates globally for females in 2017 . The third leading impairment for males, females, and both sexes combined was blindness and vision impairment (1·34 billion [1·29–1·39] cases in 2017), which is notable given the economic consequences of vision loss,
+74,75 the 
+relative treatability of many vision loss conditions, and the increased risk of injury that stems from visual impairment.
+76,77 Summed together, the impairments 
+included in the GBD cause hierarchy comprise a total of more than 5 billion prevalent cases worldwide in 2017, making it evident that health-care systems and policy makers should evaluate non-fatal burden not only for diseases and injuries but also for impairments and their aetiologies.
+Important changes in GBD 2017 compared with 
+GBD 2016Overview
+Overall, the most important systemic change to this year’s 
+study is the estimation of population and fertility in the GBD framework. In addition, we made changes to the GBD cause hierarchy (for example adding an aggregate Level 3 headache disorders cause), which limits certain cause-specific comparisons with past GBD cycles; this is discussed in more detail in the Limitations section below. Other notable cause-specific considerations, comparisons, and limitations that are new as of GBD 2017 are as follows. More details for each cause can be found in the supplementary methods (appendix 1 section 4).
+Cause-specific considerations, comparisons, and limitations
+In GBD 2017, we added the Malnutrition and Enteric Disease (MAL-ED) study to our existing use of the Global Enteric Multicenter Study (GEMS)
+78–80 to measure diar -
+rhoeal aetiologies, which affected our aetiological distributions with increased norovirus and rotavirus attributions. Our overall diarrhoea incidence estimates were not affected. The Walker and colleagues’ study
+81 
+estimated 1·7 billion episodes of diarrhoea among children younger than 5 years in 2010, a value that is greater than the GBD 2017 estimate in the same year (1·16 billion, 95% UI 1·00–1·34). For pneumonia, a study by Rudan and colleagues
+82 estimated a global pneumonia 
+incidence of 0·22 episodes (IQR 0·11–0·51) per child-year among children younger than 5 years in 2010, accounting for 122·6 million episodes, a value that is greater than the GBD 2017 estimate of 94·5 million (79·5–112). These two studies are part of the Maternal and Child Epidemiology Estimation (MCEE). The MCEE methodology for diarrhoea and pneumonia incidence differs from GBD in that MCEE uses only community-based studies. By contrast, the GBD uses a greater volume of data including Demographic and Health Surveys, Multiple Indicator Cluster Surveys, and clinical data records. We also used diarrhoea-specific and LRI-specific summary exposure values as covariates in our models, which include location-specific and year-specific estimates of risk factors associated with diarrhoea or LRI. We observed that these covariates had significant relationships with diarrhoea and LRI incidence rates and therefore strengthened our estimates, particularly in data-sparse areas. Further modelling details are described in the supplementary methods (appendix 1 section 4).
+For HIV /AIDS, we used new methods to adjust for 
+representativeness bias in ANC surveillance data,
+83 which 
+led to our models predicting a lower peak and flatter trend of the epidemic in southern sub-Saharan Africa compared with GBD 2016. We updated our inputs of antiretroviral therapy coverage distribution informed by data from the International Epidemiology Databases to Evaluate AIDS and CD4+ progression parameters for children.
+84,85 We also improved our sex-specific modelling 
+strategy in Spectrum by sex-splitting incidence based on a model fit to the sex ratio of prevalence observed in countries with representative surveys. Our estimated global prevalence results are similar to UNAIDS 2017 values, with some variation at the national level. Estimates in recent years are expected to be less stable due to improvements in HIV treatment coverage and prevention. Further modelling details are described in the supplementary methods (appendix 1 section 4).
+The hepatitis estimation process has changed to 
+improve internal consistency between mortality and non-fatal estimates for GBD 2017 . First, we included case-fatality rates from clinical data in our mortality models to improve the distribution of hepatitis deaths by virus. Second, we developed a time series of hepatitis B virus vaccine coverage in infants to use as a covariate. Third, the aggregate cause-specific mortality rate of acute hepatitis, cirrhosis, and liver cancer due to hepatitis B and hepatitis C was combined with virus-specific sero
+-
+prevalence data to ensure 
+internal consistency among 
+incidence, prevalence, remission, and excess mortality rates. Fourth, the prevalence of chronic hepatitis B and C are now captured in the cirrhosis and other chronic liver diseases cause group rather than in the prevalence estimates for acute hepatitis B and acute hepatitis C. Overall, this caused prevalent cases of hepatitis B and C to be shifted from the acute hepatitis B and C causes to the cirrhosis and other chronic liver diseases cause. Specifically, in terms of global age-standardised prevalence rates for both sexes in 2016, acute hepatitis B decreased from 6295 cases (95% UI 5349–7436) per 100
+ 000 in GBD 

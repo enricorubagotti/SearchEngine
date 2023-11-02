@@ -1,0 +1,39 @@
+Global Health Metricswww.thelancet.com   Vol 392   November 10, 2018  1843that is passed down the geographical cascade. Time 
+trends in our estimates result from where the covariates are changing over time, when year is included as a covariate or when data in different time periods lead to variation in the posterior estimates. This frame
+-
+work, however, does not capture true cohort effects. For example, 
+we do not directly take into consideration 
+prevalence in 30-year-olds in 1990 when estimating prevalence in 50-year-olds in 2010. This is a limitation for some diseases with known cohort effects such as the high incidence of hepatitis C in the USA in younger adults in the 1970s. We are continuing to develop a version of DisMod that explicitly incorporates a full age-time-period model in a Bayesian framework that will help to address this issue.
+While our cause list currently specifies 354 diseases 
+and injuries, there is great interest in incorporating a greater level of detail. Going forward, we intend to become more granular in our cause list, but every new disease requires a substantial amount of new reviews and model building. In consultation with our Scientific Council, we will need to balance our available resources with this growing list of priorities for new additions.
+Similar to the cause reporting list, the hierarchy of the 
+cause list and the method by which conditions are classified and grouped is a complex component of the GBD framework that has undergone nearly continuous improvement and refinement in years past. Grouping GBD causes into broad cause groups is a necessary part of the study’s estimation and reporting process, but it can also cause limitations and challenges in the absence of broad consensus on objective frameworks for organising cause hierarchies. Other studies that measure burden of disease exemplify how disease groupings can affect a study’s implications and interpretation. A recent study
+91 cited medical errors as the third leading cause 
+of death in the USA but grouped all heart disease and all cancer as the first and second leading causes, respectively. A different aggregation or level of detail in terms of the disease grouping in such a study could change these rankings, which become important in the realm of health policy and resource allocation as well as popular and political perception of what causes death and disability in a population. In the GBD study, we have strived to retain as much detail as is methodologically possible given available data, and additionally we have incorporated input from the GBD collaborator network in terms of refining our cause hierarchy to represent a heterogeneous mix of medical specialties, research expertise, and location-specific knowledge. In addition, our framework allows us to revise the cause hierarchy for specific specialties such as the burden of neurological disorders.
+92
+Future directions
+The methods and data that inform YLD estimation in the GBD study will continue to evolve. Several specific improvements have been suggested by the GBD collab
+-
+orator network and the global research community, and the following future directions are planned to be incorporated in the coming cycles.
+Because the GBD cycle continues to be published on 
+an annual basis, it will be important to incorporate updated data sources for older estimation years but also to add sources for the most recent estimation year. This necessitates data inclusion immediately af
+ter the end of 
+the calendar year in order to be incorporated for the following year’s estimation. This is challenging because some surveys, surveillance systems, and literature studies have a lag period between data collection and publication. One solution to this challenge would be adding, updating, and incorporating clinical data records from inpatient and outpatient visits from hospitals and clinics from more locations. Clinical data provide a level of detail, demographic information, and diagnostic accuracy that enhances the GBD study’s ability to produce accurate estimates in the more recent estimation years. Relying more heavily on clinical data will require improved methods for adjusting for known repre
+-
+sentativeness biases. In the future, we plan to link medical records to representative survey 
+results, which is 
+possible with certain claims databases such as the Medicare Current Beneficiary Survey in the USA.
+93
+In the next iteration of the GBD study, we plan to 
+incorporate improved age-time estimation using a new tool, DisMod-AT, that simultaneously quantifies the relationships over time, by age, and by age cohorts. DisMod-AT will address the age-time measurement limitation described above.
+We plan to continue updating and refining our cause 
+and location hierarchies including the causes described above. This is the first year that estimates for a non-geo
+-
+graphical subnational grouping (ie, Māori and non-Māori populations in New Zealand) were modelled, and in future GBD studies it would be compelling to similarly estimate disease 
+burden in groups within a location not 
+strictly determined by geographies—for example, race groups within the USA or refugee populations in host countries.
+Conclusion
+The global burden of non-fatal health loss in 2017 represents a complex culmination of nearly three decades of evolving disease patterns and risk factor profiles, improving health care, and dynamic populations. This study provides comprehensive updates from prior GBD studies and identifies topical themes that can be used to guide future research and discussion in the arena of non-fatal health loss. Continuing a trend from throughout the history of the GBD study, we show how YLDs continue to increase as countries improve along the develop
+ ment spectrum and emphasise how economies 
+should anticipate difficulties in caring for older popu -
+lations suffering from complex conditions such as 

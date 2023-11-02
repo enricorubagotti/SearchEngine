@@ -1,0 +1,40 @@
+Global Health Metrics1828  www.thelancet.com   Vol 392   November 10, 2018YLD rates as SDI increased (figure 4). However, there 
+were important exceptions to this finding. First, some regions did not follow this trend consistently. Southern sub-Saharan Africa showed an increase in YLD rates for more than a decade before beginning a more precipitous decline coinciding with the apex of the HIV epidemic, whereas regions with a higher baseline SDI have generally experienced minimal changes or increases in age-standardised YLD rates over the past decade despite advances in SDI. We found that trends also varied over time depending on cause. As SDI increased, age-standardised and all-age YLDs improved for CMNN causes in most regions, but this relation was less reliable for NCDs. The NCD pattern also differed markedly between all-age and age-standardised rates for NCDs, with all-age rates increasing as SDI improved with relatively little change over time observed in age-standardised rates. For injuries, some regions initially experienced a declining burden as SDI increased, followed by an increasing burden as SDI continued to increase over time, as seen in Central Europe, for example.
+Age-specific and sex-specific patterns in prevalence 
+and YLDs
+Table 2 shows global age-standardised prevalence for 
+females and males for all Level 2 GBD causes as well as the relative difference between the sexes in 1990 and 2017 . In both 1990 and 2017, the cause with the greatest relative difference between sexes was substance use disorders, which had a relative difference of 1·09 (95% UI 1·03–1·15) in 1990, which increased to 1·16 (1·09–1·23) in 2017 . In 1990, 302 million (226–388) YLDs were in females and 260 million (195–336) were in males. The all-age YLD rate for females was 11
+ 273·6 (8455·6–14  492·5) per 100  000 and 
+the all-age YLD for males was 9571·4 (7160·9–12  356·1) per 
+100 000 in 1990. Among the global sum of YLDs, 53·6% 
+(53·3–53·9) or 457 million (344–587) YLDs were in females and 46·4% (46·1–46·7) or 396 million (297–510)
+ 
+YLDs were in males. In the subset of causes that occur in both males and females, there were 761 million (565–987) total YLDs, with 53·0% (52·8–53·2) or 444 million (334–571) YLDs in females and 47·0% (46·8–47·2) or 395 million (296–510) YLDs in males. Between 1990 and 2017, all-age YLD rates increased for females and males, 
+Persian Gulf Caribbean LCADominicaATG
+TTOGrenadaVCT
+TLSMaldivesBarbados
+SeychellesMauritiusComoros
+West Africa Eastern 
+Mediterranean
+Malta
+Singapore Balkan Peninsula TongaSamoaFSM
+FijiSolomon IslMarshall Isl
+VanuatuKiribatiHIV/AIDS
+OnchocerciasisNeonatal disordersDietary iron deﬁciencyStrokeCOPD
+Drug use disorders
+Depressive disordersDiabetes
+Low back pain
+Neck painAge-related hearing lossNature disasterConﬂict and terrorism
+Headache disorders
+Blindness and vision impairment
+Figure 2: Leading Level 3 causes of age-standardised YLD rates by location for both sexes combined, 2017
+ATG=Antigua and Barbuda. COPD=chronic obstructive pulmonary disease. FSM=Federated States of Micronesia. Isl=Islands. LCA=Saint Lucia. TLS=Timor-Leste. TTO=Trinidad and Tobago. VCT=Saint Vincent and the Grenadines. YLD=years lived with disability.
+Figure 3: Trends of age-standardised YLD rates per 100
+ 000 for the top eight 
+Level 3 causes 
+of non-fatal burden in 2017 for each sex by SDI quintile, 
+1990–2017
+Mean estimates are shown. SDI=Socio-demographic Index. YLDs=years lived 
+with disability. *One legend is shown for females and males. Anxiety disorders 
+are a top cause of non-fatal burden for females and other musculoskeletal 
+disorders are a top cause of non-fatal burden for males.
