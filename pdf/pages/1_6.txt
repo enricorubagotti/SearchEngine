@@ -1,0 +1,49 @@
+Global Health Metricswww.thelancet.com   Vol 392   November 10, 2018  1795highlights how injuries data are generally less available 
+than for the other two cause groups.
+Table 1 reports cause-specific global estimates of 
+prevalence, incidence, and YLDs for causes at Levels 1–5 of the GBD hierarchy for 2017, as well as the percentage change in YLDs and age-standardised YLD rates between 1990, 2007, and 2017 . Unless otherwise specified, all rates reported in this analysis are age standardised.
+Prevalence
+For all ages and both sexes combined, globally, in 2017, the three most common causes at Level 3 of the GBD cause hierarchy in terms of all-age prevalent cases were oral disorders (3·47 billion, 95% UI 3·27–3·68), headache disorders (3·07 billion, 2·90–3·27), and tuberculosis including latent tuberculosis infection (1·93 billion, 1·71–2·20; table 1).
+Global age-standardised prevalence rankings remained 
+unchanged for the top two Level 3 causes in the GBD hierarchy from 1990 to 2017, with oral disorders and headache disorders remaining the two most common causes. Tuberculosis including latent tuberculosis infec
+-
+tion was the third leading cause in 1990 and became the fourth leading cause in 2017, whereas haemoglobin
+-
+opathies were the fourth leading cause in 1990 and became the third leading cause in 2017 . Between 1990 and 2017, the 
+age-standardised prevalence decreased for 
+oral disorders by 5·5% (95% UI 4·9 to 6·0) but increased for headache disorders by 0·3% (−0·2 to 0·9) and for haemoglobinopathies by 4·7% (4·3 to 5·1).
+Incidence
+Globally, in 2017, for all ages and both sexes combined, the three leading Level 3 causes in terms of incident cases were upper respiratory infections (17·1 billion, 95% UI 15·3 to 19·2), diarrhoeal diseases (6·29 billion, 5·81 to 6·82), and oral disorders (3·60 billion, 3·23 to 3·99; table 1). These case rankings remained unchanged for the top three causes between 1990 and 2017 despite a decrease in age-standardised incidence rates of upper respiratory infections of 2·6% (95% UI 2·0 to 3·1), from 232
+ 815 new 
+cases (95% UI 207  461 to 260  397) to 226  802 new cases 
+(201 716 to 253  367) per 100  000, and in age-standardised
+ 
+incident rates of oral disorders of 0·3% (−1·1 to 0·6), from 48
+ 423 new cases (43  233 to 53  971) to 48  276 new cases 
+(43 109 to 53  919) per 100  000, and an increase in the 
+number of new cases per 100  000 of diar  rhoeal diseases of 
+11·7% (8·8 to 14·6), from 75  087 new cases (69  475 to 81  367) 
+to 83  846 new cases (77  402 to 90  965) per 100  000.
+YLDs
+The global number of YLDs increased from 562 million (95% UI 421–723) to 853 million (642–1097) between 1990 and 2017, representing a 51·8% (50·2–53·5) increase and a 7·2% (6·0–8·4) increase in the all-age YLD rate, while age-standardised YLD rates decreased from 11
+ 310 YLDs (8485–14  506) to 10  871 YLDs (8171–13  980) per 100 000, representing a 3·9% (3·1–4·6) decrease. CMNN 
+causes accounted for 13·8% (12·5–15·1) of total YLDs in 2017, while NCDs accounted for 79·5% (77·8–81·1) and injuries for 6·7% (6·2–7·3), with a total of 118 million
+ 
+(86·7–154) YLDs for CMNN causes, 678 million (510–876) for NCDs, and 57·2 million (42·1–75·4) for injuries. The number of YLDs from CMNN causes increased from 1990 to 2017 by 13·6% (9·15–19·2), and the YLD rates from CMNN causes decreased by 14·8% (10·7–18·0) from 1846 YLDs (1343–2472) to 1573 YLDs (1159–2067) per 100
+ 000 during the same period. The number of YLDs 
+from NCD causes increased between 1990 and 2017 by 61·1% (60·0–62·4), and the YLD rate from these causes decreased 
+by 1·2% (0·66–1·8) from 8684 YLDs 
+(6540–11  223) to 8579 YLDs (6454–11  084) per 100  000. The 
+number of YLDs from injuries increased between 1990 and 2017 by 52·7% (49·3–56·4), and the YLD rate from
+ 
+injuries decreased by 7·8% (6·27–9·28) from 779 (577–1023) YLDs to 719 YLDs (529–948) per 100
+ 000. In 
+2017, the YLD rate for all causes ranged from 9120 YLDs (6877–11
+ 622) per 100  000 in Columbia to 14  824 YLDs 
+(11 080–19  203) per 100  000 in Yemen.
+Globally, in 1990, for all ages and both sexes, the 
+leading Level 3 causes of YLDs were low back pain (42·5 million YLDs, 95% UI 30·2 to 57·2), headache disorders (35·1 million, 22·8 to 49·7), and dietary iron deficiency (31·7 million, 21·6 to 45·5). Between 1990 and 2007, the number of all-age YLDs attributed to low back pain increased by 30·0% (27·9 to 31·9) and those attributed to headache disorders increased by 34·0% (33·0 to 35·1), while the number of all-age YLDs for dietary iron deficiency decreased by 0·2% (−2·8 to 2·2). Between 1990 and 2007, the number of all-age YLDs attributed to depressive disorders increased by 33·4% (31·0 to 35·8), becoming the third leading cause of all-age YLDs in 2007, and shifting dietary iron deficiency to fourth; the rankings for low back pain and headache disorders did not change from 1990 to 2007
+. 
+From 2007 to 2017, we observed further increases in the number of all-age YLDs attributable to the leading three causes: low back pain (17·5%, 95% UI 16·2–19·0), headache disorders (15·4%, 14·6–16·2), and depressive disorders (14·3%, 13·1–15·6).
+Figure 2 illustrates the leading Level 3 causes of YLD 
+rates by GBD country and select subnational locations in 2017 for both sexes combined. The geographical variation in the leading Level 3 causes of YLD rates across countries is shown: low back pain was the leading cause in 126 of the 195 countries and territories whereas diabetes was the leading cause of YLD rates in Mexico, Equatorial Guinea, Congo (Brazzaville), Myanmar, Mauritius, and Gabon, as well as parts of the Caribbean and most of Oceania. Dietary iron deficiency was the leading cause of YLD rates in Yemen, India, Antigua and Barbuda, and in parts of western sub-Saharan Africa. Conflict and terrorism was the leading cause of YLDs in Afghanistan, Eritrea, Rwanda, and Burundi.

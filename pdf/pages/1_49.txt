@@ -1,0 +1,53 @@
+Global Health Metrics1838  www.thelancet.com   Vol 392   November 10, 2018(86 800–108  000) for liver cancer due to NASH, and an 
+age-standardised prevalence of 11  061 cases (10  651–11  493) 
+per 100  000 for cirrhosis due to NASH and 1·20 cases 
+(1·07–1·33) per 100  000 for liver cancer 
+due to NASH in 
+2017 (appendix 2), identifying NASH as an increasingly 
+important cause of liver disease. We observed that these cases were distributed across all GBD regions, although more commonly in North Africa and the Middle East and in Oceania in terms of age-standardised rates. This expansion of NAFLD and liver disease due to NASH reflects the worsening burden of metabolic conditions globally. Given the complexity of chronic liver disease and the difficulty of effectively treating obesity, efforts to prevent obesity and to develop therapeutics for NAFLD will be increasingly important.
+After initial steep reductions in HIV incidence between 
+1998 and 2005, the global rate of decline in new HIV infections continues, although it has slowed in recent years and global prevalence has increased slightly since 2010, a trend which is probably driven by rapid expansion of antiretroviral therapy in high-prevalence countries and extended life expectancy of people living with HIV. These longer lifespans call for increased resources for treatment and continued prevention and treatment interventions to maintain declines in incidence.
+27 For tuberculosis, it is a 
+notable success that drug-susceptible tuberculosis has declined in terms of age-standardised incidence since 1990. The burden of malaria has also declined since the mid-2000s in terms of age-standardised incidence rates. High age-standardised incidence rates of acute viral hepatitis have persisted, however, with age-standardised incidence rates of hepatitis A and B combined exceeding malaria incidence in 2017 despite availability of vaccines. The age-standardised incidence rate of acute hepatitis did not significantly change from 1990 to 2007, from 2007 to 2017, or from 1990 to 2017, suggesting that more proactive global initiatives are important, particularly with respect to vaccine coverage
+28 and cost-effective 
+access to hepatitis C curative treatments.29–31
+Incidence rates of lower respiratory infections (LRIs) 
+declined among children younger than 5 years by 32·4% (95% UI 27·2–37·5) since 1990 and caused 83·0 million (66·4–101) episodes in children younger than 5 years in 2017, while the age-standardised incidence rate decreased by 5·8% (1·5–10·0) between 1990 and 2017 (appendix 1). Among all ages, pneumococcal pneumonia has prevailed as the leading aetiological subtype of LRI, accounting for more than five times more YLDs than the second leading cause (influenza). Diarrhoeal episodes have persisted as the second most common incident cause of health loss after upper respiratory infection among all ages, with 6·29 billion (5·81–6·82) total episodes in 2017, with rotavirus pre
+-
+vailing as the leading aetiology. The age-standardised incidence of diarrhoea 
+varied nine-fold across GBD 
+regions, with the lowest rates in Australasia and the highest rates in Oceania (appendix 2). The burdens of pneumococcal pneumonia and rotavirus diarrhoea are notable given the availability of vaccines for these pathogens, highlighting the need for continued expan
+-
+sion of vaccine coverage and delivery systems.
+While the burden of musculoskeletal disorders, vision 
+loss, and hearing loss in older ages has been a consistent theme in past GBD studies due to their substantial contribution 
+to non-fatal health loss, the burden of 
+medically complex, high-resource conditions has also become increasingly concerning. Cardiovascular disease, chronic respiratory conditions, and neurological disorders sum to form more than 15% of age-standardised YLDs in every GBD region except two (southern Latin America and eastern sub-Saharan Africa; appendix 2). GBD risk 
+factor estimates show that the drivers for atherosclerotic cardiovascular diseases—high systolic blood pressure,
+32–34 
+high cholesterol, poor diet,35 high fasting plasma glucose,35 
+and low physical activity36—prevail in many geographies, 
+indicating that this burden can be expected to persist and possibly expand as populations age. While the efforts of primary prevention approaches such as statin therapy and smoking cessation are evident in the gradual declines in age-standardised prevalence in high-income countries over the past 28 years, the prevalence of cardiovascular disease in these popu
+ lations still remains high, which 
+might also reflect improved survival from acute events
+ 
+due to improved response systems and interventions such as percutaneous coronary intervention, coronary artery bypass grafting, and rapid stroke treatment guidelines,
+37–40 
+as well as secondary prevention with statins, anti -
+hypertensives, and smoking cessation.41–46 As developing 
+economies increas  ingly experience cardio  vascular disease 
+burden, investing in health system infrastructure to ensure access to these interventions as well as to primary
+ 
+prevention therapeutics could help to mitigate disability and improve survival into older ages.
+40,47,48 Chronic 
+respiratory conditions also inflict considerable health loss in older people, contributing to more than 5% of YLDs starting in the 50–54 year age group, globally, who were exposed to risk factors such as smoking and indoor air pollution and similarly pose challenges to health systems with ageing populations, given the importance of oxygen therapy,
+49–52 access to medical care,53–55 and the risk of 
+respiratory infections among these patient populations.56,57 
+Neurological con  ditions continue to show large numbers 
+of prevalent cases and YLDs, with consistent increases in recent years. We anticipate that this burden will also
+ 
+expand as populations age, creating challenges for health-care systems given the lack of modifiable risk factors for some neurological conditions and effective treatments for conditions such as Alzheimer’s disease. Given the extensive care requirements these conditions—in iso
+-
+lation or as comorbidities—demand from both health systems and social and familial supports, their morbidity can reflect not only diminished health for an individual and population but also lost capital in an economy and
+ 
+among caretakers.58–63

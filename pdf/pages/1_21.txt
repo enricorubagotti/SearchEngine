@@ -1,0 +1,180 @@
+Global Health Metrics1810  www.thelancet.com   Vol 392   November 10, 2018Prevalence (thousands) 
+2017 countsIncidence (thousands) 2017 countsYLDs (thousands)
+2017 counts Percentage 
+change in counts, 
+1990–2007Percentage change in counts, 2007–17Percentage change in age-standardised rates, 1990–2007Percentage change in age-standardised rates, 2007–17
+(Continued from previous page)
+Metastatic phase of non-Hodgkin lymphoma140·1 
+(137·6 to 142·6)·· 58·8 
+(40·5 to 77·5)60·4% 
+(53·7 to 66·4)*35·4% 
+(31·3 to 39·6)*12·0% 
+(7·9 to 15·8)*5·1% 
+(1·9 to 8·4)*
+Terminal phase of non-Hodgkin lymphoma24·1 
+(23·7 to 24·6)·· 12·9 
+(9·0 to 16·5)57·3% 
+(51·5 to 62·0)*34·0% 
+(30·5 to 37·2)*9·4% 
+(6·2 to 11·9)*3·8% 
+(1·2 to 6·2)*
+Multiple myeloma 449·3 
+(414·6 to 520·9)152·7 
+(140·6 to 172·7)90·8 
+(64·2 to 118·4)93·4% 
+(85·2 to 102·7)*44·3% 
+(38·6 to 50·3)*29·7% 
+(24·3 to 35·4)*10·3% 
+(5·9 to 14·7)*
+Diagnosis and primary therapy phase of multiple myeloma28·1 
+(26·0 to 32·7)152·7 
+(140·6 to 172·7)8·0 
+(5·3 to 11·2)116·1% 
+(110·1 to 130·1)*48·6% 
+(43·2 to 54·8)*47·0% 
+(43·2 to 55·9)*14·4% 
+(10·2 to 19·0)*
+Controlled phase of multiple myeloma252·3 
+(233·7 to 294·6)·· 11·7 
+(7·5 to 17·3)118·2% 
+(107·1 to 135·2)*48·9% 
+(42·0 to 56·3)*48·8% 
+(41·5 to 60·1)*15·0% 
+(9·7 to 20·7)*
+Metastatic phase of multiple myeloma157·9 
+(145·3 to 181·5)·· 65·1 
+(44·2 to 85·7)90·5% 
+(80·8 to 100·4)*43·8% 
+(37·3 to 50·4)*27·7% 
+(21·3 to 34·0)*9·8% 
+(4·8 to 14·8)*
+Terminal phase of multiple myeloma10·9 
+(10·1 to 12·3)·· 5·9 
+(4·1 to 7·6)63·8% 
+(53·4 to 68·1)*35·8% 
+(31·5 to 39·8)*8·5% 
+(0·7 to 11·3)*2·4% 
+(−0·9 to 5·5)
+Leukaemia 2432·4 
+(2190·3 to 2591·6)518·5 
+(472·2 to 548·0)263·3 
+(191·2 to 342·0)27·8% 
+(13·5 to 38·0)*25·1% 
+(19·7 to 29·5)*−3·6% 
+(−12·7 to 2·1)2·3% 
+(−2·3 to 6·5)
+Acute lymphoid leukaemia 521·1 
+(433·1 to 579·5)64·2 
+(56·4 to 70·4)43·0 
+(30·6 to 58·6)29·9% 
+(3·6 to 46·7)*31·6% 
+(11·9 to 47·7)*11·1% 
+(−9·4 to 24·0)18·6% 
+(0·3 to 33·7)*
+Diagnosis and primary therapy phase of acute lymphoid leukaemia32·0 
+(28·1 to 35·1)64·2 
+(56·4 to 70·4)9·2 
+(6·1 to 13·0)18·6% 
+(−6·0 to 33·6)11·8% 
+(−3·0 to 21·9)0·6% 
+(−18·0 to 11·8)−1·0% 
+(−14·5 to 8·0)
+Controlled phase of acute lymphoid leukaemia465·2 
+(383·8 to 521·0)·· 22·6 
+(14·0 to 34·1)39·6% 
+(10·2 to 59·8)*48·4% 
+(20·2 to 69·2)*24·4% 
+(−0·3 to 41·3)36·8% 
+(10·2 to 56·6)*
+Metastatic phase of acute lymphoid leukaemia20·1 
+(17·3 to 21·7)·· 9·1 
+(6·0 to 12·4)26·3% 
+(3·9 to 42·1)*21·6% 
+(10·0 to 31·5)*2·4% 
+(−13·6 to 13·8)5·8% 
+(−4·5 to 14·3)
+Terminal phase of acute lymphoid leukaemia3·7 
+(3·2 to 4·0)·· 2·0 
+(1·4 to 2·6)25·4% 
+(2·9 to 41·5)*20·8% 
+(9·0 to 30·9)*2·0% 
+(−14·1 to 13·7)5·2% 
+(−5·2 to 13·9)
+Chronic lymphoid leukaemia567·7 
+(534·1 to 600·4)90·6 
+(85·6 to 95·6)74·6 
+(54·8 to 96·5)72·3% 
+(65·5 to 80·3)*42·7% 
+(36·5 to 49·1)*12·5% 
+(7·8 to 17·7)*7·3% 
+(2·5 to 12·3)*
+Diagnosis and primary therapy phase of chronic lymphoid leukaemia30·4 
+(28·6 to 32·1)90·6 
+(85·6 to 95·6)8·6 
+(5·8 to 11·9)78·0% 
+(71·6 to 84·8)*45·4% 
+(39·0 to 52·0)*18·1% 
+(13·6 to 22·7)*10·6% 
+(5·5 to 15·7)*
+Controlled phase of chronic lymphoid leukaemia424·3 
+(399·1 to 449·4)·· 19·5 
+(12·7 to 28·2)83·4% 
+(75·4 to 91·3)*46·6% 
+(39·4 to 54·0)*23·1% 
+(18·0 to 28·5)*12·2% 
+(6·9 to 17·9)*
+Metastatic phase of chronic lymphoid leukaemia108·9 
+(103·0 to 114·8)·· 44·4 
+(31·2 to 58·5)67·8% 
+(59·1 to 77·9)*40·8% 
+(33·9 to 48·3)*8·5% 
+(2·8 to 14·8)*5·1% 
+(0·0 to 10·7)*
+Terminal phase of chronic lymphoid leukaemia4·0 
+(3·8 to 4·2)·· 2·2 
+(1·5 to 2·8)58·4% 
+(52·4 to 64·5)*35·9% 
+(30·4 to 41·8)*1·6% 
+(−2·4 to 
+ 5·5)0·5% 
+(−3·6 to 5·0)
+Acute myeloid leukaemia 150·9 
+(137·0 to 160·0)119·6 
+(108·4 to 125·9)28·8 
+(20·2 to 37·7)52·6% 
+(24·2 to 72·6)*22·9% 
+(12·9 to 30·0)*13·5% 
+(−4·6 to 25·4)1·0% 
+(−7·1 to 6·7)
+Diagnosis and primary therapy phase of acute myeloid leukaemia·· 119·6 
+(108·4 to 125·9)·· ·· ·· ·· ··
+Controlled phase of acute myeloid leukaemia99·2 
+(90·5 to 105·8)·· 4·8 
+(3·0 to 7·2)63·3% 
+(25·1 to 91·8)*18·7% 
+(7·4 to 27·0)*26·4% 
+(1·9 to 44·0)*0·0% 
+(−9·5 to 7·1)
+Metastatic phase of acute myeloid leukaemia42·5 
+(38·5 to 44·7)·· 19·0 
+(12·5 to 25·5)50·4% 
+(23·7 to 69·1)*23·8% 
+(14·0 to 30·8)*11·1% 
+(−6·0 to 22·1)1·1% 
+(−6·4 to 6·8)
+Terminal phase of acute myeloid leukaemia9·2 
+(8·4 to 9·7)·· 5·0 
+(3·4 to 6·5)51·0% 
+(24·2 to 69·8)*24·0% 
+(14·2 to 30·8)*11·6% 
+(−5·6 to 22·6)1·2% 
+(−6·2 to 6·8)
+Chronic myeloid leukaemia 95·8 
+(88·3 to 103·2)34·2 
+(31·5 to 36·7)11·7 
+(8·4 to 15·4)6·5% 
+(1·3 to 11·2)*6·6% 
+(3·0 to 10·0)*−28·1% 
+(−31·5 to −24·8)*−15·0% 
+(−17·9 to −12·1)*
+(Table 1 continues on next page)

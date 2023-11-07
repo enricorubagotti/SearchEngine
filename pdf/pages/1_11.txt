@@ -1,0 +1,178 @@
+Global Health Metrics1800  www.thelancet.com   Vol 392   November 10, 2018Prevalence (thousands) 
+2017 countsIncidence (thousands) 2017 countsYLDs (thousands)
+2017 counts Percentage 
+change in counts, 
+1990–2007Percentage change in counts, 2007–17Percentage change in age-standardised rates, 1990–2007Percentage change in age-standardised rates, 2007–17
+(Continued from previous page)
+Anaemia due to hookworm disease9536·1 
+(8764·4 to 10
+ 362·8)·· 245·9 
+(164·0 to 360·4)−41·2% 
+(−49·1 to −32·8)*−35·4% 
+(−41·8 to 
+−28·5)*−51·7% 
+(−58·1 to −44·7)*−41·3% 
+(−47·1 to −34·9)*
+Hookworm disease complications28
+ 950·6 
+(26 952·9 to 31  087·4)·· 599·1 
+(334·2 to 993·7)−25·8% 
+(−33·7 to −17·7)*−25·2% 
+(−30·2 to 
+−19·5)*−40·8% 
+(−47·2 to −34·4)*−32·2% 
+(−36·8 to −27·1)*
+Food-borne trematodiases 82 532·4 
+(74 596·1 to 91  774·9)40 746·0 
+(35 650·0 to 46  019·1)1870·7 
+(1070·9 to 3149·7)9·4% 
+(−9·4 to 31·8)8·5% 
+(4·8 to 
+12·0)*−16·6% 
+(−30·0 to −0·8)*−6·2% 
+(−9·1 to −3·5)*
+Asymptomatic food-borne trematodiases65
+ 832·6 
+(56 442·3 to 75  378·7)30 998·0 
+(23 711·7 to 37  759·6)·· ·· ·· ·· ··
+Food-borne trematodiases
+ 
+complications16 699·7 
+(11 172·6 to 25  636·1)9748·1 
+(5025·4 to 
+16 377·4)1870·7 
+(1070·9 to 3149·7)9·4% 
+(−9·4 to 31·8)8·5% 
+(4·8 to 
+12·0)*−16·6% 
+(−30·0 to −0·8)*−6·2% 
+(−9·1 to −3·5)*
+Leprosy 518·5 
+(487·7 to 552·5)48·5 
+(45·8 to 51·4)31·5 
+(21·5 to 44·6)35·0% 
+(31·7 to 38·2)*−1·3% 
+(−3·7 to 1·1)−5·5% 
+(−7·8 to −3·4)*−20·4% 
+(−22·4 to −18·5)*
+Ebola virus disease ·· ·· ·· ·· −96·8% 
+(−97·5 to −94·7)*·· −97·1% 
+(−97·8 to −95·3)*
+Ebola cases ·· ·· ·· ·· −97·8% 
+(−97·9 to −97·7)*·· −98·1% 
+(−98·1 to −98·0)*
+Post-Ebola chronic fatigue syndrome·· ·· ·· ·· −96·7%  
+(−97·5 to −94·6)*·· −97·1% 
+(−97·7 to −95·2)*
+Zika virus disease 37·6 
+(28·2 to 52·0)2232·2 
+(1659·6 to 3097·6)1·2 
+(0·8 to 1·8)·· ·· ·· ··
+Zika virus complications 0·9 
+(0·7 to 1·5)0·6 
+(0·4 to 1·2)0·5 
+(0·3 to 0·8)·· ·· ·· ··
+Zika virus episode 36·7 
+(27·3 to 50·9)2231·6 
+(1659·1 to 3097·0)0·7 
+(0·4 to 1·1)·· ·· ·· ··
+Guinea worm disease ·· ·· ·· −99·6% 
+(−99·6 to −99·6)*−99·5% 
+(−99·6 to −99·3)*−99·7% 
+(−99·7 to −99·7)*−99·5% 
+(−99·7 to −99·3)*
+Moderate pain and limited mobility due to guinea worm·· ·· ·· −99·6% 
+(−99·6 to −99·6)*−99·5% 
+(−99·6 to −99·3)*−99·7% 
+(−99·7 to −99·7)*−99·5% 
+(−99·7 to −99·4)*
+Guinea worm disease complications·· ·· ·· −99·6% 
+(−99·7 to −99·6)*−99·5% 
+(−99·6 to −99·2)*−99·7% 
+(−99·7 to −99·7)*−99·5% 
+(−99·7 to −99·3)*
+Other neglected tropical diseases52
+ 797·1 
+(51 667·9 to 54  034·5)·· 1531·2 
+(1027·0 to 2201·6)2·2% 
+(−1·2 to 5·5)−5·7% 
+(−9·7 to 
+−1·5)*−10·9% 
+(−13·7 to −8·0)*−13·3% 
+(−17·1 to −9·4)*
+Acute infection due to other neglected tropical diseases·· ·· 13·3 
+(6·9 to 23·0)164·3% 
+(61·7 to 303·2)*107·6% 
+(83·3 to 199·8)*135·1% 
+(44·5 to 257·7)*86·9% 
+(64·7 to 169·5)*
+Anaemia due to other neglected tropical diseases52
+ 797·1 
+(51 667·9 to 54  034·5)·· 1517·9 
+(1018·7 to 2185·7)1·9% 
+(−1·4 to 5·3)−6·2% 
+(−10·2 to 
+−2·0)*−11·1% 
+(−14·0 to −8·3)*−13·7% 
+(−17·6 to −9·8)*
+Other infectious diseases 101  451·5 
+(97 425·1 to 105  559·6)478  720·6 
+(450  498·3 to 
+511  601·6)4056·6 
+(2835·5 to 5535·8)5·0% 
+(2·1 to 7·5)*−0·5% 
+(−2·9 to 
+1·6)−13·3% 
+(−15·3 to −11·5)*−10·6% 
+(−12·7 to −8·9)*
+Meningitis 10 572·9 
+(8836·7 to 
+12 552·2)5045·4 
+(4435·1 to 5877·8)933·9 
+(653·0 to 1255·1)10·6% 
+(8·4 to 
+13·2)*−3·2% 
+(−5·9 to −0·3)*−10·3% 
+(−12·2 to −8·1)*−12·4% 
+(−14·7 to −9·7)*
+Pneumococcal meningitis 3557·0 
+(2932·0 to 4337·6)444·9 
+(357·8 to 552·1)325·0 
+(219·2 to 440·0)19·9% 
+(16·6 to 23·3)*−24·8% 
+(−27·4 to −22·1)*−3·7% 
+(−6·3 to −1·0)*−32·1% 
+(−34·6 to −29·6)*
+Acute pneumococcal meningitis19·9 
+(15·8 to 25·0)444·9 
+(357·8 to 
+552·1)2·6 
+(1·6 to 3·9)9·7% 
+(3·6 to 15·9)*−28·4% 
+(−34·2 to −22·4)*−0·9% 
+(−6·0 to 4·7)−34·1% 
+(−39·8 to −28·4)*
+Pneumococcal meningitis complications3537·1 
+(2915·9 to 4314·0)·· 322·4 
+(217·6 to 436·2)20·0% 
+(16·7 to 23·4)*−24·7% 
+(−27·4 to −22·1)*−3·7% 
+(−6·4 to −1·0)*−32·1% 
+(−34·5 to −29·5)*
+H influenzae type B meningitis924·2 
+(668·2 to 1229·3)262·3 
+(195·1 to 351·1)84·3 
+(57·6 to 115·4)−2·7% 
+(−5·7 to 0·5)−48·1%  
+(−50·4 to −45·8)*−20·3% 
+(−22·8 to −17·6)*−52·5% 
+(−54·6 to −50·3)*
+Acute H influenzae type B meningitis11·3 
+(8·4 to 15·2)262·3 
+(195·1 to 351·1)1·5 
+(0·9 to 2·4)−9·6% 
+(−14·9 to −4·3)*−48·4% 
+(−54·2 to −42·2)*−16·3% 
+(−21·4 to −11·4)*−51·7% 
+(−57·2 to −45·6)*
+(Table 1 continues on next page)

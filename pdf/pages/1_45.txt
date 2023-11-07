@@ -1,0 +1,55 @@
+Global Health Metrics1834  www.thelancet.com   Vol 392   November 10, 2018for males decreased by 4·3% (3·8 to 4·9) for oral 
+disorders, increased by less than 0·1% (−0·85 to 0·85) for headache disorders, and decreased by 3·1% (0·8 to 5·4) for tuberculosis including latent tuberculosis infection. Between 2007 and 2017, the age-standardised prevalence for males for oral disorders and tuberculosis further decreased by 1·6% (1·2 to 2·0) and 11·5% (10·1 to 12·8), respectively, whereas the age-standardised prevalence for headache disorders increased by 0·7% (0·4 to 0·9). In 2017, oral disorders, headache disorders, and tubercu
+-
+losis including latent tuberculosis remained the three Level 3 causes with greatest global age-standardised prevalence for males.In terms of numbers 
+ of YLDs, in 1990, the leading 
+causes for both females and males were low back pain, headache disorders, and dietary iron deficiency (figure 8). 
+Central Asia
+Central Europe
+Eastern Europe
+Australasia
+High-income Asia Paciﬁc
+High-income North America
+Southern Latin America
+Western Europe
+Andean Latin America
+Caribbean
+Central Latin America
+Tropical Latin America
+North Africa and Middle East
+South Asia
+East Asia
+Oceania
+Southeast Asia
+Central sub-Saharan Africa
+Eastern sub-Saharan Africa
+Southern sub-Saharan Africa
+Western sub-Saharan Africa
+Global
+All causes
+HIV/AIDS and STIs
+Respiratory infections and tuberculosisEnteric infectionsNTDs and malariaOther infectious diseases
+Maternal and neonatal disorders
+Nutritional deﬁcienciesNeoplasmsCardiovascular diseasesChronic respiratory diseases
+Digestive diseases
+Neurological disordersMental disordersSubstance use disordersDiabetes and kidney diseases
+Skin and subcutaneous diseases
+Sense organ diseasesMusculoskeletal disordersOther NCDsTransport injuries
+Unintentional injuriesSelf-harm and interpersonal violence
+Improving
+DivergentWorseningDirection of overall trend Deviation from equal relative change over time*
+(0·000, 0·004](0·004, 0·012](0·012, 0·024](0·024, 0·058](0·058, 1·870]Sex with more favourable trend
+FemalesMales
+Figure 6: Absolute difference in non-fatal trend equality for males and females in terms of age-standardised YLD rates, 1990–2017
+This figure shows whether females or males experienced more favourable trends between 1990 and 2017 in terms of age-standardised YLDs by GBD region and Level 2 cause. Circles indicate females experienced more favourable trends and triangles indicate males experienced more favourable trends, where more favourable refers to either decreasing more or increasing less. Green indicates that the overall trend is improving (ie, decreasing age-standardised YLDs) and red indicates that the overall trend is worsening (ie, increasing age-standardised YLDs). Yellow indicates cause-regions where one sex is increasing and the other sex is decreasing. For example, in Andean Latin America for substance use, the large yellow triangle means that males have experienced decreasing age-standardised YLDs whereas the trend for females is the opposite (ie, increasing age-standardised YLDs). Different sizes refer to greater deviations from equal trends between 1990 and 2017 . For example, for chronic respiratory conditions, males have experienced more favourable trends in both Andean Latin America and the Caribbean, with both regions having decreasing trends over time for both sexes, but the Caribbean is closer to having equal trends for males and females between 1990 and 2017 . GBD=Global Burden of Diseases, Injuries, and Risk Factors Study. STIs=sexually transmitted infections. NCDs=non-communicable diseases. NTDs=neglected tropical diseases.YLDs=years lived with disability. *Round brackets indicate excluded endpoints whereas square brackets indicate included endpoints.
+Figure 7: Leading 20 Level 3 causes of global prevalence for 1990, 2007, and 
+2017, with percentage change in number of cases and all-age and 
+age-standardised rates for each sex
+Causes are connected by lines between time periods; solid lines are increases and 
+dashed lines are decreases. For the time periods 1990–2007 and 2007–17, three 
+measures of change are shown: percentage change in the number of cases, 
+percentage change in the all-age prevalence rate, and percentage change in the 
+age-standardised prevalence rate. Communicable, maternal, neonatal, and 
+nutritional diseases are shown in red; non-communicable causes in blue; and 
+injuries in green. Statistically significant changes are shown in bold. COPD=chronic 
+obstructive pulmonary disease. STIs=sexually transmitted infections.
